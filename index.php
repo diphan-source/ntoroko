@@ -9,48 +9,29 @@
 
 
         <!-- preloader -->
-        <div class="loader-wrap">
+        <!-- <div class="loader-wrap">
             <div class="preloader">
                 <div class="preloader-close">x</div>
-                <div id="handle-preloader" class="handle-preloader">
-                    <div class="animation-preloader">
-                        <div class="spinner"></div>
-                        <div class="txt-loading">
-                            <span data-text-preloader="P" class="letters-loading">
-                                P
-                            </span>
-                            <span data-text-preloader="u" class="letters-loading">
-                                u
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="H" class="letters-loading">
-                                H
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="a" class="letters-loading">
-                                a
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="t" class="letters-loading">
-                                t
-                            </span>
-                            <span data-text-preloader="s" class="letters-loading">
-                                s
-                            </span>
-                        </div>
-                    </div>  
+                    <div id="handle-preloader" class="handle-preloader">
+                        <div class="animation-preloader">
+                            <div class="spinner"></div>
+                            <div class="txt-loading">
+                                <span data-text-preloader="N" class="letters-loading">
+                                    N
+                                </span>
+                                <span data-text-preloader="D" class="letters-loading">
+                                    D
+                                </span>
+                                <span data-text-preloader="N" class="letters-loading">
+                                    N
+                                </span>
+
+                            </div>
+                        </div>  
+                    </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- preloader end -->
 
 
@@ -69,13 +50,13 @@
                 <div class="swiper-container banner-content">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <div class="image-layer" style="background-image: url(assets/images/banner/banner-1.jpg);"></div>
+                            <div class="image-layer" style="background-image: url(assets/images/ndn/cover2.jpg);"></div>
                             <div class="auto-container">
                                 <div class="content-box">
-                                    <h2>Donate</h2>
-                                    <span>Even it is a small one</span>
+                                    <h2>Livelihood Support</h2>
+                                    <span>Even if it is small </span>
                                     <h2>it can bring bigger</h2>
-                                    <p>Charity is a continuous process toward success and <br />happiness Let’s help them now.</p>
+                                    <p>Charity is a continuous process towards success and <br />happiness Let’s support.</p>
                                     <div class="btn-box">
                                         <a href="index.php" class="banner-btn">Read More</a>
                                     </div>
@@ -86,12 +67,12 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="image-layer" style="background-image: url(assets/images/banner/banner-2.jpg);"></div>
+                            <div class="image-layer" style="background-image: url(assets/images/ndn/cover3.jpg);"></div>
                             <div class="auto-container">
                                 <div class="content-box">
-                                    <h2>Happiness</h2>
-                                    <span>Is not something ready made</span>
-                                    <h2>It’s Comes from Help</h2>
+                                    <h2>Farmers Sensitization</h2>
+                                    <span>It's not something already in Our Community</span>
+                                    <h2>We Can Change this</h2>
                                     <p>Alone, we don’t make much of a difference, but together, we are <br />strong to face any problem.</p>
                                     <div class="btn-box">
                                         <a href="index.php" class="banner-btn">Read More</a>
@@ -103,12 +84,12 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="image-layer" style="background-image: url(assets/images/banner/banner-3.jpg);"></div>
+                            <div class="image-layer" style="background-image: url(assets/images/ndn/cover4.jpg);"></div>
                             <div class="auto-container">
                                 <div class="content-box">
-                                    <h2>Help Today</h2>
-                                    <span>Because tomorrow you may be</span>
-                                    <h2>Needs somenone help</h2>
+                                    <h2>Better Water Sources</h2>
+                                    <span>For a better tomorrow in our community</span>
+                                    <h2>We need you to make it happen</h2>
                                     <p>Only when the society comes together and contributes ,we will be <br />able to make an impact.</p>
                                     <div class="btn-box">
                                         <a href="index.php" class="banner-btn">Read More</a>
@@ -138,11 +119,11 @@
                                     <span>01</span>
                                 </div>
                                 <div class="text">
-                                    <span class="top-text">Donate to</span>
-                                    <h3>Education & <br />Food for Childrens</h3>
+                                    <span class="top-text">Support in</span>
+                                    <h3>Vocational <br />Training for Youth</h3>
                                     <a href="index.php">More Details</a>
                                 </div>
-                                <figure class="image-box"><img src="assets/images/banner/banner-img-1.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/vol.jpg" alt=""></figure>
                             </div>
                         </div>
                         <div class="swiper-slide">
@@ -152,11 +133,11 @@
                                     <span>02</span>
                                 </div>
                                 <div class="text">
-                                    <span class="top-text">Donate to</span>
-                                    <h3>Surgery <br />& Treatments</h3>
+                                    <span class="top-text">Help to</span>
+                                    <h3>End gender Based <br /> violence</h3>
                                     <a href="index.php">More Details</a>
                                 </div>
-                                <figure class="image-box"><img src="assets/images/banner/banner-img-2.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/gen.jpeg" alt=""></figure>
                             </div>
                         </div>
                         <div class="swiper-slide">
@@ -166,11 +147,11 @@
                                     <span>03</span>
                                 </div>
                                 <div class="text">
-                                    <span class="top-text">Donate to</span>
-                                    <h3>Environmetal <br />Protection</h3>
+                                    <span class="top-text">Support in</span>
+                                    <h3>Health Camps <br />For Women &amp; elderly</h3>
                                     <a href="index.php">More Details</a>
                                 </div>
-                                <figure class="image-box"><img src="assets/images/banner/banner-img-3.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/health.jpg" alt=""></figure>
                             </div>
                         </div>
                     </div>
@@ -193,13 +174,13 @@
                     <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                         <div class="image_block_1">
                             <div class="image-box">
-                                <figure class="image image-1"><img src="assets/images/resource/about-1.png" alt=""></figure>
-                                <figure class="image image-2"><img src="assets/images/resource/about-2.png" alt=""></figure>
+                                <figure class="image image-1"><img src="assets/images/ndn/about.jpg" alt=""></figure>
+                                <figure class="image image-2"><img src="assets/images/ndn/about-2.jpg" alt=""></figure>
                                 <figure class="image image-3"><img src="assets/images/icons/heart-2.png" alt=""></figure>
                                 <figure class="image image-4"><img src="assets/images/icons/heart-3.png" alt=""></figure>
                                 <figure class="image image-5"><img src="assets/images/icons/imoji-1.png" alt=""></figure>
                                 <div class="text">
-                                    <h4><i class="icon-donation"></i>We’ve Funded 50k Dollars</h4>
+                                    <h4><i class="icon-donation"></i>We Are Ready To Bring The Change We Desire</h4>
                                 </div>
                             </div>
                         </div>
@@ -209,12 +190,14 @@
                             <div class="content-box">
                                 <div class="inner">
                                     <div class="sec-title">
-                                        <span class="top-text">About Pure Hearts</span>
-                                        <h2>Here to Bring People Together <br />to Help</h2>
+                                        <span class="top-text">About Ntoroko Development Network</span>
+                                        <h2>Here to Bring People Together &amp;<br />empower our Community </h2>
                                     </div>
                                     <div class="text">
-                                        <p>The majority have suffered alteration all injected humours randomises.</p>
-                                        <p>There are many variations of passages of lorem ipsum available, but the majority have suffered alteration all form injected humours randomises don't look even slightly belvable.</p>
+                                        <p>Ntoroko Development Network is a non profit organisation that concerns itself with 
+                                            empowerment of the people in ntoroko community through different programs and activities.
+                                        </p>
+                                        <p>Farmer Sensitization , youth empowerment , health camps for women and elderly , awareness on youth mental health and others </p>
                                     </div>
                                     <div class="btn-box">
                                         <a href="about.php" class="theme-btn btn-one">Read More</a>
@@ -225,7 +208,7 @@
                                         <div class="inner-box">
                                             <div class="icon-box"><i class="icon-charity"></i></div>
                                             <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="1500" data-stop="278">0</span>
+                                                <span class="count-text" data-speed="1500" data-stop="20">0</span>
                                             </div>
                                             <h4>Volunteers</h4>
                                         </div>
@@ -234,7 +217,7 @@
                                         <div class="inner-box">
                                             <div class="icon-box"><i class="icon-donation-1"></i></div>
                                             <div class="count-outer count-box">
-                                                <span class="count-text" data-speed="1500" data-stop="6.5">0</span><span>k</span>
+                                                <span class="count-text" data-speed="1500" data-stop="100">0</span><span>k</span>
                                             </div>
                                             <h4>Beneficiaries</h4>
                                         </div>
@@ -348,7 +331,7 @@
                             <div class="title-inner text-right">
                                 <div class="sec-title">
                                     <span class="top-text">Our Global Causes</span>
-                                    <h2>Spread Joy with a Donation</h2>
+                                    <h2>Support Our Causes</h2>
                                 </div>
                                 <div class="tab-btn-box">
                                     <ul class="tab-btns tab-buttons clearfix">
@@ -357,25 +340,37 @@
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-2">
-                                            <h5>Education</h5>
+                                            <h5>Vocational School for Women &amp; Youth</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-3">
-                                            <h5>Health & Food</h5>
+                                            <h5>Health Camps</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-4">
-                                            <h5>Hunger & Nutrition</h5>
+                                            <h5>Creation of Water Sources</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-5">
-                                            <h5>Treatment</h5>
+                                            <h5>Campaigns against gender based violence</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-6">
-                                            <h5>Water & Environment</h5>
+                                            <h5>Livelihood Support</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
+                                        <!-- <li class="tab-btn" data-tab="#tab-6">
+                                            <h5>Farmer Sensitization</h5>
+                                            <div class="icon"><i class="fal fa-angle-left"></i></div>
+                                        </li>
+                                        <li class="tab-btn" data-tab="#tab-6">
+                                            <h5>Campaigns against gender based violence</h5>
+                                            <div class="icon"><i class="fal fa-angle-left"></i></div>
+                                        </li>
+                                        <li class="tab-btn" data-tab="#tab-6">
+                                            <h5>Creative Sports</h5>
+                                            <div class="icon"><i class="fal fa-angle-left"></i></div>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -1144,155 +1139,113 @@
                     <div class="shape" style="background-image: url(assets/images/shape/shape-21.png);"></div>
                     <div class="inner">
                         <div class="sec-title centred light">
-                            <span class="top-text">Recent Donors</span>
-                            <h2>Thousands of Donors Choose Pure Hearts <br />for High Impact Causes</h2>
+                            <span class="top-text">Recent Volunteer</span>
+                            <h2>Thousands of Volunteers Choose NDN <br />for High Impact Causes</h2>
                         </div>
                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Jasper Flelix, <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>gladys natunkunda, <span>kampala</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Jasper mackline, <span>kashaka</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>William atuhe, <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Geroge Ahim, <span>Fortportal</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Mark Stephen, <span>kampala</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Difo Daniel, <span>mbarara</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>masiko alex, <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Magezi David , <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>kamuli maria, <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Magezi David , <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Geroge Ahim, <span>Fortportal</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Mark Stephen, <span>kampala</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>Difo Daniel, <span>mbarara</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
                                 <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Jasper Flelix, <span>Liverpool</span></h3>
-                                    <h6>Donated $250</h6>
+                                    <h3>masiko alex, <span>ntoroko</span></h3>
+                                    <h6>Volunteer</h6>
                                 </div>
                             </div>
                         </div>
@@ -1945,7 +1898,7 @@
                     <div class="left-column pull-left">
                         <div class="logo-box">
                             <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo-3.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn5.png" alt=""></a></figure>
                         </div>
                         <div class="text">
                             <h3><i class="icon-email-open-sketched-envelope"></i>Subscribe <br />Our Newsletter</h3>

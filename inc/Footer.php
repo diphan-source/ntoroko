@@ -51,7 +51,7 @@
                             <div class="footer-widget contact-widget ml-30">
                                 <div class="title-box">
                                     <div class="icon-box"><i class="icon-donation-2"></i></div>
-                                    <span>Ntoroko Community</span>
+                                    <span>Ntoroko Development Network</span>
                                     <h3>Giving / Enquiry</h3>
                                 </div>
                                 <div class="widget-content">
@@ -73,7 +73,7 @@
                 <div class="auto-container">
                     <div class="inner-box clearfix">
                         <div class="copyright pull-left">
-                            <p>&copy; 2022 <a href="index.php">Ntoroko,</a> All Rights Reserved.</p>
+                            <p>&copy; 2022 <a href="index.php">Ntoroko Development Network,</a> All Rights Reserved.</p>
                         </div>
                         <!-- <ul class="footer-card pull-right clearfix">
                             <li><span>Ways to Donate:</span></li>

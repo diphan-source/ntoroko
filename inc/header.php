@@ -2,7 +2,7 @@
             <!-- logo-box -->
             <div class="logo-box">
                 <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                <figure class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
+                <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn4.jpeg" alt=""></a></figure>
             </div>
             <!-- header-top -->
             <div class="header-top">

@@ -4,7 +4,7 @@
 
     function get_title($title) {
         global $page_title;
-        $SITE_NAME = "Active Youth Africa";
+        $SITE_NAME = "NDN";
         // remove .php from the end of the title
         $title = str_replace('.php', '', $title);
         // if the title is index, use Home instead
