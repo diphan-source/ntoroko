@@ -1132,7 +1132,7 @@
 
         <!-- recent-case-section -->
         <section class="recent-case-section">
-            <div class="bg-layer" style="background-image: url(assets/images/background/5.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/background/p4.jpg);"></div>
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-12.png);"></div>
             <div class="auto-container">
                 <div class="inner-box">
@@ -1144,107 +1144,86 @@
                         </div>
                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper Flelix, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
                                 <div class="text">
                                     <h3>gladys natunkunda, <span>kampala</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper mackline, <span>kashaka</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>William atuhe, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Geroge Ahim, <span>Fortportal</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Mark Stephen, <span>kampala</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Difo Daniel, <span>mbarara</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>masiko alex, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Magezi David , <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
                                 <div class="text">
                                     <h3>kamuli maria, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
                                 <div class="text">
                                     <h3>Magezi David , <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
                                 <div class="text">
                                     <h3>Geroge Ahim, <span>Fortportal</span></h3>
-                                    <h6>Volunteer</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Mark Stephen, <span>kampala</span></h3>
-                                    <h6>Volunteer</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>Difo Daniel, <span>mbarara</span></h3>
-                                    <h6>Volunteer</h6>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                <div class="text">
-                                    <h3>masiko alex, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
