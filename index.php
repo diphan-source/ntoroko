@@ -1244,10 +1244,10 @@
                         <div class="title-inner">
                             <div class="sec-title">
                                 <span class="top-text">Benefits of Giving</span>
-                                <h2>Bring More Meaning to Your Life & Family</h2>
+                                <h2>Bring More Meaning to Your Community </h2>
                             </div>
                             <div class="text">
-                                <p>The majority have suffered alteration all injected humours randomises.</p>
+                                <p>Let's join hands to make our community a better place.</p>
                                 <a href="index.php" class="theme-btn btn-one">Read More</a>
                             </div>
                         </div>
@@ -1263,8 +1263,8 @@
                                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
                                             <div class="icon"><i class="icon-stop-hand-drawn-signal-rhomb"></i></div>
                                         </div>
-                                        <h3>Improve Self-Esteem</h3>
-                                        <p>Righteous indignation and dislike mens who beguiled demoralized.</p>
+                                        <h3>Youth Involvement</h3>
+                                        <p>Believe the youth deserve better platform and be involved in the community development &amp; Planning.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1275,8 +1275,8 @@
                                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
                                             <div class="icon"><i class="icon-puzzle-piece-shape-handmade-draw"></i></div>
                                         </div>
-                                        <h3>Reduce Your Stress</h3>
-                                        <p>Obligations of business it will frequently pleasure have to be repudiate.</p>
+                                        <h3>empowerment of Women &amp; Girls</h3>
+                                        <p>As we all know women and girls are the mothers of our country hence empowering the is shaping the future.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1287,8 +1287,9 @@
                                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
                                             <div class="icon"><i class="icon-financial-bar-chart"></i></div>
                                         </div>
-                                        <h3>Financial Benefits</h3>
-                                        <p>Obligations of business it will frequently pleasure have to be repudiate.</p>
+                                        <h3>Farmer Sensitization</h3>
+                                        <p>Since our Community largely carries out farmering especially cattle keeping hence sensitizing them to 
+                                            under and use the mordern methods in farming will lead to development in our community .</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1299,8 +1300,9 @@
                                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
                                             <div class="icon"><i class="icon-house-with-heart-hand-drawn-building"></i></div>
                                         </div>
-                                        <h3>Familial Benefits</h3>
-                                        <p>Righteous indignation and dislike mens who beguiled demoralized.</p>
+                                        <h3>Water &amp; Source</h3>
+                                        <p>We hope this project will reduce the issue of water storage in our community especially during 
+                                            the dry season for the animals and domestic use.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1318,16 +1320,17 @@
                 <div class="video-carousel owl-carousel owl-theme owl-dots-none">
                     <div class="row clearfix">
                         <div class="col-lg-6 col-md-6 col-sm-12 image-column">
-                            <figure class="image-box"><img src="assets/images/resource/video-1.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/images.jpg" alt=""></figure>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
-                                    <h2>Social Art for Behaviour Change Approach</h2>
+                                    <span class="top-text">Mental health Section</span>
+                                    <h2>Social Art for Behaviour Change Approach &amp; Mindset</h2>
                                 </div>
                                 <div class="text">
-                                    <p>Laborious physical exercise, except to obtain advantages from it but who has any right.</p>
+                                    <p>Since we all know Mental health encompasses emotional, psychological, and social well-being.
+                                         It influences cognition, perception, and behavior hence its a key aspect to introduce in our Community</p>
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
@@ -1338,13 +1341,13 @@
                     </div>
                     <div class="row clearfix">
                         <div class="col-lg-6 col-md-6 col-sm-12 image-column">
-                            <figure class="image-box"><img src="assets/images/resource/video-2.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/video.jpg" alt=""></figure>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
-                                    <h2>What Has Aid <br />Ever Done For Anyone?</h2>
+                                    <span class="top-text">Togetherness Benefit</span>
+                                    <h2>What Has Aid &amp; togetherness <br />Ever Done For Anyone?</h2>
                                 </div>
                                 <div class="text">
                                     <p>Find fault with a man who chooses to enjoy pleasure that has no annoying consequences.</p>
@@ -1358,16 +1361,17 @@
                     </div>
                     <div class="row clearfix">
                         <div class="col-lg-6 col-md-6 col-sm-12 image-column">
-                            <figure class="image-box"><img src="assets/images/resource/video-3.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/dep.jpg" alt=""></figure>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
-                                <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
-                                    <h2>Social Art for Behaviour Change Approach</h2>
+                            <div class="sec-title light">
+                                    <span class="top-text">Mental health Section</span>
+                                    <h2>Social Art for Behaviour Change Approach &amp; Mindset</h2>
                                 </div>
                                 <div class="text">
-                                    <p>Laborious physical exercise, except to obtain advantages from it but who has any right.</p>
+                                    <p>Since we all know Mental health encompasses emotional, psychological, and social well-being.
+                                         It influences cognition, perception, and behavior hence its a key aspect to introduce in our Community</p>
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
