@@ -1830,7 +1830,7 @@
                     </div>
                     <div class="right-column pull-right clearfix">
                         <div class="form-inner">
-                            <form action="https://st.ourhtmldemo.com/new/PureHearts/contact.php" method="post" class="subscribe-form">
+                            <form action="https://ntoroko.herokuapp.com/index.php" method="post" class="subscribe-form">
                                 <div class="form-group">
                                     <input type="email" name="email" placeholder="Your Email Address..." required="">
                                     <button type="submit">Subscribe Us</button>
@@ -1850,7 +1850,7 @@
 
 
         <!-- main-footer -->
-       <?php include_once './inc/footer.php'; ?>
+       <?php include_once './inc/Footer.php'; ?>
 
         <!-- donate popup -->
         <?php include_once './inc/donatepopup.php'; ?>
