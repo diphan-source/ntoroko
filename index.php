@@ -238,24 +238,24 @@
                 <div class="inner-box clearfix">
                     <div class="single-block" style="background-image: url(assets/images/background/2.jpg);">
                         <div class="text">
-                            <h3><i class="icon-tax-free"></i>Make the <br />Most Out of Tax Time</h3>
-                            <p>Receive as much as 53% amount back tax-time.</p>
+                            <h3><i class="icon-tax-free"></i>Make Us <br />accountable for your Contribution</h3>
+                            <p>Receive reports from us time to time .</p>
                             <ul class="list-style-one clearfix">
-                                <li>Provincial tax incentives add up</li>
-                                <li>Eliminate the capital gains tax</li>
-                                <li>Consider carrying donations forward</li>
+                                <li>integrity is key </li>
+                                <li>Honesty is our value</li>
+                                <li>Making Ntoroko Community better is our goal </li>
                             </ul>
                             <a href="index.php">More Details</a>
                         </div>
                     </div>
                     <div class="single-block" style="background-image: url(assets/images/background/3.jpg);">
                         <div class="text">
-                            <h3><i class="icon-gift"></i>Give a <br />Charitable Gift Card</h3>
-                            <p>You Choose the design, Value and your recipient.</p>
+                            <h3><i class="icon-gift"></i>Give <br />&amp; make Someone out there smile </h3>
+                            <p>You Choose how you can get invloved.</p>
                             <ul class="list-style-one clearfix">
-                                <li>Select your gift card</li>
-                                <li>We deliver your card on the day</li>
-                                <li>Make them happy for all occasion</li>
+                                <li>Be A Sponser</li>
+                                <li>Be A volunteer </li>
+                                <li>Make someone happy by supporting</li>
                             </ul>
                             <a href="index.php">More Details</a>
                         </div>
@@ -267,13 +267,13 @@
                     <div class="row clearfix">
                         <div class="col-xl-6 col-lg-12 col-md-12 offset-xl-6">
                             <div class="urgent-case-block">
-                                <div class="upper-box" style="background-image: url(assets/images/background/4.jpg);">
+                                <div class="upper-box" style="background-image: url(assets/images/ndn/cow.jpg);">
                                     <div class="sec-title light">
                                         <span class="top-text">Urgent Cause</span>
-                                        <h2>Syria: Millions of People doesn’t Eat All Day</h2>
+                                        <h2>Water Sources For Our Animals </h2>
                                     </div>
                                     <div class="text">
-                                        <p>Passages of lorem ipsum available the majority have suffered alteration all form injected humours.</p>
+                                        <p>This has been a major problem in our community especially the dry season though we can change it together .</p>
                                     </div>
                                     <div class="timer">
                                         <div class="cs-countdown" data-countdown="06/24/2021 05:06:59"></div>
@@ -284,27 +284,27 @@
                                     <div class="donate-inner clearfix">
                                         <div class="pattern-layer-2" style="background-image: url(assets/images/shape/shape-8.png);"></div>
                                         <div class="amount-box">
-                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                            <h5>Charity Raised</h5>
-                                            <div class="price">$42,000 <span>/ $80,000</span></div>
+                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                            <h5>Water Sources Constructed</h5>
+                                            <div class="price">10 <span>/ 30</span></div>
                                         </div>
                                         <div class="percentage-box">
                                             <div class="bar"></div>
                                             <h5>53%</h5>
                                         </div>
                                         <div class="btn-box">
-                                            <button class="donate-box-btn">Donate Now</button>
+                                            <button class="donate-box-btn">join Us Now</button>
                                         </div>
                                     </div>
                                     <ul class="info-box clearfix">
                                         <li>
                                             <i class="far fa-calendar-alt"></i>
                                             <h5>Days</h5>
-                                            <p>28 Days Left</p>
+                                            <p>50 Days Left</p>
                                         </li>
                                         <li>
                                             <i class="fas fa-users"></i>
-                                            <h5>40+</h5>
+                                            <h5>10+</h5>
                                             <p>Suppoters</p>
                                         </li>
                                         <li class="share">
@@ -1144,84 +1144,84 @@
                         </div>
                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt="" ></figure>
                                 <div class="text">
                                     <h3>Jasper Flelix, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg"  alt=""></figure>
                                 <div class="text">
                                     <h3>gladys natunkunda, <span>kampala</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper mackline, <span>kashaka</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>William atuhe, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Geroge Ahim, <span>Fortportal</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Mark Stephen, <span>kampala</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag4.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Difo Daniel, <span>mbarara</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag3.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>masiko alex, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag5.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Magezi David , <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg"  alt=""></figure>
                                 <div class="text">
                                     <h3>kamuli maria, <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/images.jpg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Magezi David , <span>ntoroko</span></h3>
                                     <h6>Volunteer</h6>
                                 </div>
                             </div>
                             <div class="single-item">
-                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/ndn/mag/mag2.jpeg"  alt=""></figure>
                                 <div class="text">
                                     <h3>Geroge Ahim, <span>Fortportal</span></h3>
                                     <h6>Volunteer</h6>
@@ -1389,7 +1389,7 @@
         <!-- events-section -->
         <section class="events-section">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-17.png);"></div>
-            <div class="bg-layer" style="background-image: url(assets/images/background/7.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/background/p6.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="shape" style="background-image: url(assets/images/shape/shape-18.png);"></div>
@@ -1399,7 +1399,7 @@
                                 <div class="content-box">
                                     <div class="sec-title light">
                                         <span class="top-text">Our Recent Events</span>
-                                        <h2>Here to Bring People Together</h2>
+                                        <h2>Here to Bring People &amp; Farmers Together</h2>
                                     </div>
                                     <div class="text">
                                         <p>The majority have suffered alteration all injected <br />gets humours randomises.</p>
@@ -1423,17 +1423,17 @@
                                     <div class="inner-box">
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
-                                            <img src="assets/images/events/events-1.jpg" alt="">
-                                            <h3>31<span>Feb</span></h3>
+                                            <img src="assets/images/ndn/farmers.jpg" alt="">
+                                            <h3>28<span>may</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
                                                 <li><i class="far fa-clock"></i>11.30 am</li>
-                                                <li><i class="far fa-map"></i>Newyork</li>
+                                                <li><i class="far fa-map"></i>Ntoroko District</li>
                                             </ul>
-                                            <h3><a href="event-details.php">Royal Parks Half Marathon</a></h3>
+                                            <h3><a href="event-details.php">Farmer's Sensitization</a></h3>
                                             <div class="links"><a href="event-details.php">More Details</a></div>
-                                            <div class="price"><h6>$180.00</h6></div>
+                                            <div class="price"><h6>for free</h6></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1441,15 +1441,15 @@
                                     <div class="inner-box">
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
-                                            <img src="assets/images/events/events-2.jpg" alt="">
-                                            <h3>05<span>Mar</span></h3>
+                                            <img src="assets/images/ndn/mental.jpg" alt="">
+                                            <h3>20<span>May</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
                                                 <li><i class="far fa-clock"></i>10.00 am</li>
-                                                <li><i class="far fa-map"></i>California</li>
+                                                <li><i class="far fa-map"></i>Ntoroko District</li>
                                             </ul>
-                                            <h3><a href="event-details.php">Pure Hearts Virtual Brain Game</a></h3>
+                                            <h3><a href="event-details.php">Mental health week </a></h3>
                                             <div class="links"><a href="event-details.php">More Details</a></div>
                                             <div class="price"><h6>For Free</h6></div>
                                         </div>
@@ -1459,17 +1459,17 @@
                                     <div class="inner-box">
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
-                                            <img src="assets/images/events/events-3.jpg" alt="">
-                                            <h3>22<span>Mar</span></h3>
+                                            <img src="assets/images/ndn/soccer.jpg" alt="">
+                                            <h3>18<span>june</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
-                                                <li><i class="far fa-clock"></i>05.30 am</li>
-                                                <li><i class="far fa-map"></i>Newyork</li>
+                                                <li><i class="far fa-clock"></i>09.30 am</li>
+                                                <li><i class="far fa-map"></i>Ntoroko District </li>
                                             </ul>
-                                            <h3><a href="event-details.php">USA Walks, Treks and Hikes</a></h3>
+                                            <h3><a href="event-details.php">Soccer Gala</a></h3>
                                             <div class="links"><a href="event-details.php">More Details</a></div>
-                                            <div class="price"><h6>$160.00</h6></div>
+                                            <div class="price"><h6> for free</h6></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1494,13 +1494,93 @@
                 <div class="four-item-carousel owl-carousel owl-theme owl-nav-none">
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                            <div class="content-box">
+                                <div class="info">
+                                    <span class="designation">Founder</span>
+                                    <h3>William </h3>
+                                </div>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                                <div class="text">
+                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                </div>
+                            </div>
+                            <ul class="social-links clearfix">
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                            <div class="content-box">
+                                <div class="info">
+                                    <span class="designation">Manager</span>
+                                    <h3>Lucky</h3>
+                                </div>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                                <div class="text">
+                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                </div>
+                            </div>
+                            <ul class="social-links clearfix">
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
+                            <div class="content-box">
+                                <div class="info">
+                                    <span class="designation">Coordinator</span>
+                                    <h3>Brenda Namatovu</h3>
+                                </div>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
+                                <div class="text">
+                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                </div>
+                            </div>
+                            <ul class="social-links clearfix">
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                            <div class="content-box">
+                                <div class="info">
+                                    <span class="designation">Volunnteer</span>
+                                    <h3>Luke Nobert</h3>
+                                </div>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                                <div class="text">
+                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                </div>
+                            </div>
+                            <ul class="social-links clearfix">
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">Founder</span>
                                     <h3>Benjie Alphonso</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
                                 <div class="text">
                                     <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
                                 </div>
@@ -1514,13 +1594,13 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">Manager</span>
                                     <h3>Ivor Herbertson</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
                                 <div class="text">
                                     <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
                                 </div>
@@ -1534,13 +1614,13 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">Coordinator</span>
                                     <h3>Rodha Thelma</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
                                 <div class="text">
                                     <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
                                 </div>
@@ -1554,13 +1634,13 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-4.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
-                                    <span class="designation">Valunteer</span>
+                                    <span class="designation">Volunnteer</span>
                                     <h3>Luke Nobert</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
                                 <div class="text">
                                     <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
                                 </div>
@@ -1574,13 +1654,13 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">Founder</span>
                                     <h3>Benjie Alphonso</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
                                 <div class="text">
                                     <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
                                 </div>
@@ -1592,146 +1672,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-4.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Valunteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-1.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-4.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Valunteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </section>
@@ -1748,7 +1689,7 @@
                             <div class="content-box">
                                 <div class="sec-title">
                                     <span class="top-text">Testimonials</span>
-                                    <h2>Success Stories, To Know About Our Charity</h2>
+                                    <h2>Success Stories, To Know About Our Activities</h2>
                                 </div>
                                 <div class="text">
                                     <p>The majority have suffered alteration all injected humours randomises.</p>
@@ -1759,38 +1700,38 @@
                     </div>
                     <div class="col-lg-8 col-md-12 col-sm-12 inner-column">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/volunteer2.jpg" alt=""></figure>
                             <div class="testimonial-inner">
                                 <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                                     <div class="testimonial-block-one">
                                         <div class="text">
                                             <div class="icon-box"><i class="fas fa-quote-left"></i></div>
                                             <h3>It’s helped me so much.</h3>
-                                            <p>Pure Hearts! charities provided jump start we needed to expaand our all efforts and trains more volunteers foresee the pain trouble.</p>
-                                            <h4>Isaac Samuel</h4>
-                                            <span class="designation">California</span>
+                                            <p>Ntoroko Development Network! activities run to expaand our all efforts and trainings more volunteers to train others in community .</p>
+                                            <h4>Lucky mbabazi</h4>
+                                            <span class="designation">Youth Volunteer</span>
                                         </div>
-                                        <figure class="testimonial-thumb"><img src="assets/images/resource/testimonial-thumb-1.png" alt=""></figure>
+                                        <figure class="testimonial-thumb"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                                     </div>
                                     <div class="testimonial-block-one">
                                         <div class="text">
-                                            <div class="icon-box"><i class="fas fa-quote-left"></i></div>
+                                        <div class="icon-box"><i class="fas fa-quote-left"></i></div>
                                             <h3>It’s helped me so much.</h3>
-                                            <p>Pure Hearts! charities provided jump start we needed to expaand our all efforts and trains more volunteers foresee the pain trouble.</p>
-                                            <h4>Isaac Samuel</h4>
-                                            <span class="designation">California</span>
+                                            <p>Ntoroko Development Network! activities run to expaand our all efforts and trainings more volunteers to train others in community .</p>
+                                            <h4>Lucky mbabazi</h4>
+                                            <span class="designation">Youth Volunteer</span>
                                         </div>
-                                        <figure class="testimonial-thumb"><img src="assets/images/resource/testimonial-thumb-1.png" alt=""></figure>
+                                        <figure class="testimonial-thumb"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                                     </div>
                                     <div class="testimonial-block-one">
                                         <div class="text">
-                                            <div class="icon-box"><i class="fas fa-quote-left"></i></div>
+                                        <div class="icon-box"><i class="fas fa-quote-left"></i></div>
                                             <h3>It’s helped me so much.</h3>
-                                            <p>Pure Hearts! charities provided jump start we needed to expaand our all efforts and trains more volunteers foresee the pain trouble.</p>
-                                            <h4>Isaac Samuel</h4>
-                                            <span class="designation">California</span>
+                                            <p>Ntoroko Development Network! activities run to expaand our all efforts and trainings more volunteers to train others in community .</p>
+                                            <h4>Lucky mbabazi</h4>
+                                            <span class="designation">Youth Volunteer</span>
                                         </div>
-                                        <figure class="testimonial-thumb"><img src="assets/images/resource/testimonial-thumb-1.png" alt=""></figure>
+                                        <figure class="testimonial-thumb"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -1803,7 +1744,7 @@
 
 
         <!-- news-section -->
-        <section class="news-section sec-pad">
+        <!-- <section class="news-section sec-pad">
             <div class="auto-container">
                 <div class="sec-title centred">
                     <span class="top-text">Blog & Article</span>
@@ -1869,7 +1810,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- news-section end -->
 
 
