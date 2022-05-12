@@ -10,15 +10,19 @@
                     <div class="sidebar-info-contents">
                         <div class="content-inner">
                             <div class="logo">
-                                <a href="index.php"><img src="assets/images/logo.png" alt="" /></a>
+                                <a href="index.php"><img src="assets/images/ndn/ndn4.jpeg" alt="" /></a>
                             </div>
                             <div class="content-box">
                                 <h4>About Us</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam laboris.</p>
+                                <p>
+                                Ntoroko Development Network is a non profit organisation that concerns itself with 
+                                empowerment of the people in ntoroko community through different programs and activities.
+                                </p>
+                                <p>Farmer Sensitization , youth empowerment , health camps for women and elderly , awareness on youth mental health and others </p>
                             </div>
                             <div class="form-inner">
                                 <h4>Reach out </h4>
-                                <form action="https://st.ourhtmldemo.com/new/PureHearts/index.php" method="post">
+                                <form action="https://ntoroko.herokuapp.com/index.php" method="post">
                                     <div class="form-group">
                                         <input type="text" name="name" placeholder="Name" required="">
                                     </div>

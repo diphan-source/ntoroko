@@ -3,13 +3,13 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/ndn/ndn4.jpeg" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li>Local Community Centre , Ntoroko District, Uganda</li>
+                        <li><a href="tel:+8801682648101">+2567770000</a></li>
                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                     </ul>
                 </div>
