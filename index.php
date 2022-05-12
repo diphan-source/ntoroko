@@ -267,7 +267,7 @@
                     <div class="row clearfix">
                         <div class="col-xl-6 col-lg-12 col-md-12 offset-xl-6">
                             <div class="urgent-case-block">
-                                <div class="upper-box" style="background-image: url(assets/images/ndn/cow.jpg);">
+                                <div class="upper-box" style="background-image: url(assets/images/ndn/cow.JPG);">
                                     <div class="sec-title light">
                                         <span class="top-text">Urgent Cause</span>
                                         <h2>Water Sources For Our Animals </h2>
