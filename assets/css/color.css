@@ -5,75 +5,75 @@
 }
 
 .preloader-close{
-	color:#e2811e
+	color:#d06811
 }
 
 .menu-area .mobile-nav-toggler{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading{
-  color:#e2811e
+  color:#d06811
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color:#e2811e
+  color:#d06811
 }
 
 .handle-preloader .animation-preloader .spinner{
-  border: 3px solid#e2811e 
+  border: 3px solid#d06811 
 }
 
 .theme-btn.btn-one{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .theme-btn.btn-two{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .theme-btn.btn-one:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .theme-btn.btn-two:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .header-top .donate-btn .btn-one{
-	color:#e2811e
+	color:#d06811
 }
 
 .header-top .info-list li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .header-top .info-list li span{
-	color:#e2811e
+	color:#d06811
 }
 
 .header-top .info-list li i{
-  color:#e2811e
+  color:#d06811
 }
 
 .header-top .update-news p span{
-	color:#e2811e
+	color:#d06811
 }
 
 .header-top .update-news i{
-	color:#e2811e
+	color:#d06811
 }
 
 .header-top .language-box span{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .header-top .language-box .language-list{
-	border-top: 2px solid#e2811e
+	border-top: 2px solid#d06811
 }
 
 .header-top .language-box .language-list li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .header-lower .outer-box .text span{
@@ -82,16 +82,16 @@
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color:#e2811e
+  color:#d06811
 }
 
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .sec-title .top-text{
@@ -99,70 +99,70 @@
 }
 
 .donate-content .donate-option .donate-list :checked+label{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .bootstrap-touchspin .glyphicon-chevron-up:hover:before,
 .bootstrap-touchspin .glyphicon-chevron-down:hover:before{
-  color:#e2811e
+  color:#d06811
 }
 
 .donate-content .payment-option .payment-list :checked+label{
-	color:#e2811e
+	color:#d06811
 }
 
 .donate-content .payment-option .payment-list :checked+label:before{
-  color:#e2811e
+  color:#d06811
 }
 
 .donate-content .form-inner .form-group .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border: 2px solid#e2811e
+	border: 2px solid#d06811
 }
 
 .donate-content .form-inner .form-group label span{
-  color:#e2811e
+  color:#d06811
 }
 
 .donate-content .form-inner .form-group input:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .donate-popup .close-donate:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .xs-sidebar-group .widget-heading a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .social-style-one li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .main-header .search-box-btn:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .main-header .nav-right-content .cart-box a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .main-header .nav-right-content .nav-btn{
-	color:#e2811e
+	color:#d06811
 }
 
 .main-header .search-box-outer .dropdown-menu {
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .xs-sidebar-group .content-inner .form-inner .form-group input:focus,
 .xs-sidebar-group .content-inner .form-inner .form-group textarea:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .scroll-top{
-	color:#e2811e;
-	border-color:#e2811e
+	color:#d06811;
+	border-color:#d06811
 }
 
 .image_block_1 .image-box .text{
@@ -174,19 +174,19 @@
 }
 
 .counter-block-one .inner-box .count-outer{
-	color:#e2811e
+	color:#d06811
 }
 
 .urgent-case-section .right-column .cs-countdown .count-col span{
-	color:#e2811e
+	color:#d06811
 }
 
 .urgent-case-section .right-column .lower-box .donate-inner .amount-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .urgent-case-section .right-column .lower-box .donate-inner .amount-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .urgent-case-section .right-column .lower-box .donate-inner .percentage-box .bar:before{
@@ -198,19 +198,19 @@
 }
 
 .urgent-case-section .right-column .lower-box .donate-inner .btn-box button{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .urgent-case-section .right-column .lower-box .info-box li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .urgent-case-section .right-column .lower-box .info-box li h5 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .banner-carousel .banner-content .swiper-slide .content-box span{
-	color:#e2811e
+	color:#d06811
 }
 
 .banner-btn{
@@ -218,11 +218,11 @@
 }
 
 .banner-btn:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .banner-carousel .banner-content .othre-text span{
-	color:#e2811e
+	color:#d06811
 }
 
 .banner-section .banner-thumbs-carousel .single-item .text .top-text{
@@ -230,29 +230,29 @@
 }
 
 .banner-section .banner-thumbs-carousel .single-item .text a{
-	color:#e2811e
+	color:#d06811
 }
 
 .banner-section .banner-thumbs-carousel .single-item .text a:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .banner-section .banner-thumbs-carousel .single-item .text a:after{
-	color:#e2811e
+	color:#d06811
 }
 
 .banner-section .banner-thumbs-carousel .single-item .icon-box span{
-	color:#e2811e
+	color:#d06811
 }
 
 .banner-section .banner-content .swiper-button-prev:hover,
 .banner-section .banner-content .swiper-button-next:hover{
-  background-color:#e2811e
+  background-color:#d06811
 }
 
 .banner-section .banner-thumbs-carousel .swiper-button-next:hover, 
 .banner-section .banner-thumbs-carousel .swiper-button-prev:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .donate-amount .percentage-box .bar-inner{
@@ -260,11 +260,11 @@
 }
 
 .donate-amount .amount-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .donate-amount .amount-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .donate-amount .percentage-box .count-text{
@@ -277,47 +277,47 @@
 }
 
 .case-block-one .inner-box .lower-content .inner .text .category a:hover{
-  color:#e2811e;
-  border-color:#e2811e;
+  color:#d06811;
+  border-color:#d06811;
 }
 
 .case-block-one .inner-box .lower-content .inner .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .case-block-one .inner-box .lower-content .info-box li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-section .tab-btns li:before{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .case-section .tab-btns li.active-btn,
 .case-section .tab-btns li:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-section .tab-btns li.active-btn h5,
 .case-section .tab-btns li:hover h5{
-  color:#e2811e
+  color:#d06811
 }
 
 .case-section .tab-btns li .icon:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .case-section .owl-nav button:hover{
-	background-color:#e2811e;
-	border-color:#e2811e;
+	background-color:#d06811;
+	border-color:#d06811;
 }
 
 .recent-case-section .inner-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .video-section .content-box .video-btn a{
-	color:#e2811e
+	color:#d06811
 }
 
 .video-section .content-box .video-btn a:hover{
@@ -325,17 +325,17 @@
 }
 
 .video-section .owl-nav button:hover{
-	border-color:#e2811e;
-	background-color:#e2811e
+	border-color:#d06811;
+	background-color:#d06811
 }
 
 .content_block_2 .content-box .sponsors-inner h6 a{
-	color:#e2811e;
-	border-color:#e2811e;
+	color:#d06811;
+	border-color:#d06811;
 }
 
 .events-block-one .inner-box .image-box h3{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .events-block-one .inner-box .inner .info li{
@@ -347,23 +347,23 @@
 }
 
 .events-block-one .inner-box .inner h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .events-block-one .inner-box .inner .links a:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .events-block-one .inner-box .inner .links a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .events-block-one .inner-box .inner .price h6{
-	color:#e2811e
+	color:#d06811
 }
 
 .recent-case-section .owl-nav button:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .team-block-one .inner-box .content-box .designation{
@@ -371,25 +371,25 @@
 }
 
 .team-block-one .inner-box .social-links{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .team-section .owl-theme .owl-dots .owl-dot.active span,
 .team-section .owl-theme .owl-dots .owl-dot span:hover{
-  border-color:#e2811e
+  border-color:#d06811
 }
 
 .team-section .owl-theme .owl-dots .owl-dot.active span:before,
 .team-section .owl-theme .owl-dots .owl-dot span:hover:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .testimonial-block-one .text .icon-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .testimonial-block-one .text h3{
-	color:#e2811e
+	color:#d06811
 }
 
 .testimonial-block-one .text .designation{
@@ -397,12 +397,12 @@
 }
 
 .testimonial-section .owl-nav button:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .news-block-one .inner-box .content-box .text .post-date{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .news-block-one .inner-box .content-box .text .category a{
@@ -414,44 +414,44 @@
 }
 
 .news-block-one .inner-box .content-box .text .category a:hover{
-  color:#e2811e;
-  border-color:#e2811e
+  color:#d06811;
+  border-color:#d06811
 }
 
 .news-block-one .inner-box .content-box .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .news-block-one .inner-box .content-box .info .link-box a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .news-block-one .inner-box .content-box .info .link-box a:after{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .news-block-one .inner-box .content-box .info .comment-box a i{
-	color:#e2811e
+	color:#d06811
 }
 
 .news-block-one .inner-box .content-box .info .comment-box a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .subscribe-section .inner-box .left-column .text h3 i{
-	color:#e2811e
+	color:#d06811
 }
 
 .subscribe-section .inner-box .right-column .subscribe-form .form-group button{
-	color:#e2811e
+	color:#d06811
 }
 
 .subscribe-section .inner-box .right-column .subscribe-form .form-group input:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .footer-top .title-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .footer-top .title-box span{
@@ -459,19 +459,19 @@
 }
 
 .footer-top .links-widget .links-list li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .footer-top .contact-widget .widget-content .single-item h3 a{
-	color:#e2811e
+	color:#d06811
 }
 
 .footer-top .contact-widget .widget-content .single-item p a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .footer-bottom .copyright p a{
-	color:#e2811e
+	color:#d06811
 }
 
 .footer-bottom .footer-card li span{
@@ -504,7 +504,7 @@
 
 .main-menu .navigation > li.current > a:before,
 .main-menu .navigation > li:hover > a:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .red-color .main-menu .navigation > li.current > a:before,
@@ -918,11 +918,11 @@
 }
 
 .page-title .bread-crumb li a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .content_block_6 .content-box .inner-box .author-box .icon-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .content_block_6 .content-box .inner-box .author-box span{
@@ -930,7 +930,7 @@
 }
 
 .content_block_6 .content-box .inner-box .social-links li a{
-	background-color: #3b5998;
+	background-color: #1497b7;
 }
 
 .content_block_6 .content-box .inner-box .social-links li:nth-child(2) a{
@@ -946,20 +946,20 @@
 }
 
 .image_block_2 .image-box .text h4 i{
-	color:#e2811e
+	color:#d06811
 }
 
 .history-section .owl-nav button:hover{
-  background-color:#e2811e
+  background-color:#d06811
 }
 
 .history-section .tabs-box .tab-btns li.active-btn,
 .history-section .tabs-box .tab-btns li:hover{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .history-section .tabs-box .tabs-content .text a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .feature-block-one .inner-box .icon-box{
@@ -967,45 +967,45 @@
 }
 
 .feature-block-one .inner-box .icon-box:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .contribution-section .single-item .inner-box:hover .icon-box{
-  color:#e2811e
+  color:#d06811
 }
 
 .contribution-section .single-item .inner-box .icon-box h5{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .contribution-section .single-item .inner-box a:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .contribution-section .single-item .inner-box a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .contribution-section .owl-theme .owl-dots .owl-dot.active span:before,
 .contribution-section .owl-theme .owl-dots .owl-dot span:hover:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .contribution-section .owl-theme .owl-dots .owl-dot.active span,
 .contribution-section .owl-theme .owl-dots .owl-dot span:hover{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .content_block_8 .content-box .single-progress-box .box span{
-	color:#e2811e
+	color:#d06811
 }
 
 .content_block_8 .content-box .single-progress-box .text h2{
-	color:#e2811e
+	color:#d06811
 }
 
 .content_block_8 .content-box .single-progress-box .text a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .content_block_8 .content-box .single-progress-box:last-child .box span{
@@ -1021,23 +1021,23 @@
 }
 
 .funfact-section.alternat-2 .funfact-block-one .inner-box .count-outer{
-  color:#e2811e
+  color:#d06811
 }
 
 .content_block_9 .content-box .volunteer-form .form-group input:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .content_block_10 .content-box .text{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .content_block_10 .content-box .text .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .content_block_10 .content-box .text a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .accordion-box .block .acc-btn h5 i{
@@ -1045,32 +1045,32 @@
 }
 
 .accordion-box .block .acc-btn.active .icon-outer{
-  border-color:#e2811e !important;
-  color:#e2811e
+  border-color:#d06811 !important;
+  color:#d06811
 }
 
 .accordion-box .block .acc-btn.active{
-  border-color:#e2811e
+  border-color:#d06811
 }
 
 .accordion-box .block .acc-btn.active h5{
-	color:#e2811e
+	color:#d06811
 }
 
 .accordion-box .block .acc-btn.active h5 i{
-  background-color:#e2811e
+  background-color:#d06811
 }
 
 .error-section .inner-box h1{
-	color:#e2811e
+	color:#d06811
 }
 
 .sortable-masonry .filter-tabs li.active{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .portfolio-section .image-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .portfolio-block-one .inner-box .content-box .links-list li:first-child a{
@@ -1082,42 +1082,42 @@
 }
 
 .portfolio-block-one .inner-box .content-box .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .portfolio-section.four-columns .portfolio-block-one .inner-box .content-box .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .pagination li a:hover,
 .pagination li a.current{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .portfolio-sidebar .portfolio-info .info-list li p a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .portfolio-sidebar .social-links li a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .list-style-two li:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .portfolio-details-content .nav-btn-box .single-item h6{
-	color:#e2811e
+	color:#d06811
 }
 
 .portfolio-details-content .nav-btn-box .single-item h5 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .portfolio-details-content .nav-btn-box:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .percentage-box .bar-inner{
@@ -1134,20 +1134,20 @@
 }
 
 .case-block-three .inner-box .image-box .text .category a:hover{
-  color:#e2811e;
-  border-color:#e2811e
+  color:#d06811;
+  border-color:#d06811
 }
 
 .case-block-three .inner-box .image-box .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .amount-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .amount-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .btn-box button:hover{
@@ -1155,7 +1155,7 @@
 }
 
 .case-block-three .inner-box .lower-content .info-box li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .info-box li.share .social-links{
@@ -1163,8 +1163,8 @@
 }
 
 .case-block-three .inner-box .lower-content .info-box li.share:hover i{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .case-block-three .inner-box .lower-content .info-box li.share .social-links:before{
@@ -1172,11 +1172,11 @@
 }
 
 .case-block-four .inner-box .donate-inner .amount-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-four .inner-box .donate-inner .amount-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-block-four .inner-box .donate-inner .percentage-box .bar-inner{
@@ -1193,12 +1193,12 @@
 }
 
 .case-block-four .inner-box .content-box .text .category a:hover{
-  color:#e2811e;
-  border-color:#e2811e
+  color:#d06811;
+  border-color:#d06811
 }
 
 .case-block-four .inner-box .content-box .text h3 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .case-block-four .inner-box .content-box .info-box li.share .social-links{
@@ -1210,20 +1210,20 @@
 }
 
 .case-block-four .inner-box .content-box .info-box li.share:hover i{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .case-block-four .inner-box .content-box .info-box li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details .donate-inner .amount-box .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details .donate-inner .amount-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details .donate-inner .percentage-box .bar:before{
@@ -1235,23 +1235,23 @@
 }
 
 .case-details .upper-box .info-box li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details-content .content-two .video-inner .video-box a{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .case-details-content .content-two .text .list li:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details-content .content-three .single-item .overlay-content h6 a{
-	color:#e2811e
+	color:#d06811
 }
 
 .case-details-content .content-three .single-item .overlay-content .icon-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .case-details-content .content-four .single-item span{
@@ -1260,7 +1260,7 @@
 
 .case-details-content .content-four .owl-nav .owl-prev:hover,
 .case-details-content .content-four .owl-nav .owl-next:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .default-sidebar .search-widget .form-group button{
@@ -1269,47 +1269,47 @@
 
 .default-sidebar .search-widget .form-group input:focus + button,
 .default-sidebar .search-widget .form-group button:hover{
-  background-color:#e2811e
+  background-color:#d06811
 }
 
 .default-sidebar .search-widget .form-group input:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .default-sidebar .category-widget .category-list li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .default-sidebar .category-widget .category-list li a:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .default-sidebar .gallery-widget .image-list li .image a{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .default-sidebar .gallery-widget .image-list li .image a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .default-sidebar .subscribe-widget .upper-content:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .default-sidebar .subscribe-widget .upper-content .icon-box{
-	color:#e2811e
+	color:#d06811
 }
 
 .default-sidebar .subscribe-widget .lower-content .subscribe-form input:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .default-sidebar .subscribe-widget .lower-content p span{
-  color:#e2811e
+  color:#d06811
 }
 
 .events-block-two .inner-box .post-date h3{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .events-page-section .events-block-two .inner-box .content-box .info li{
@@ -1321,19 +1321,19 @@
 }
 
 .events-page-section .events-block-two .inner-box .content-box h3 a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .events-block-two .inner-box:hover .content-box .links a{
-	color:#e2811e
+	color:#d06811
 }
 
 .events-block-two .inner-box .content-box .links a:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .events-block-two .inner-box .content-box .links a:after{
-	color:#e2811e
+	color:#d06811
 }
 
 .events-page-section .events-block-two .inner-box .content-box .category a{
@@ -1341,7 +1341,7 @@
 }
 
 .events-block-one .inner-box .inner .links a:after{
-	color:#e2811e
+	color:#d06811
 }
 
 .event-details-content .upper-box .events-info li{
@@ -1353,15 +1353,15 @@
 }
 
 .event-details-content .tab-btns li.active-btn{
-	color:#e2811e
+	color:#d06811
 }
 
 .event-details-content .tab-btns li.active-btn i{
-  color:#e2811e
+  color:#d06811
 }
 
 .event-details-content .tabs-content .overview-inner .content-two .list li:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .event-details-content .tabs-content .lower-box .btn-box span{
@@ -1369,12 +1369,12 @@
 }
 
 .event-details-content .tabs-content .lower-box .share-option h5 a{
-	color:#e2811e
+	color:#d06811
 }
 
 .event-details-content .tabs-content .lower-box .share-option h5 a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .event-details-content .tabs-content .participants-inner .single-item .designation{
@@ -1382,24 +1382,24 @@
 }
 
 .event-details-content .tabs-content .participants-inner .single-item .social-links li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .event-details-content .tabs-content .contact-inner .form-inner .form-group input:focus,
 .event-details-content .tabs-content .contact-inner .form-inner .form-group textarea:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .event-details-content .tabs-content .contact-inner .sidebar-inner .event-organizer h3{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .news-block-two .inner-box .content-box .text .post-date{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .news-block-two .inner-box .content-box .info .comment-box a i{
-	color:#e2811e
+	color:#d06811
 }
 
 .news-block-two .inner-box .content-box .text .category a{
@@ -1408,41 +1408,41 @@
 }
 
 .news-block-two .inner-box .content-box .text .category a:hover{
-	color:#e2811e;
-	border-color:#e2811e
+	color:#d06811;
+	border-color:#d06811
 }
 
 .news-block-two .inner-box .content-box .text h3 a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .news-block-two .inner-box .content-box .info .link-box a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .news-block-two .inner-box .content-box .info .post-info li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .news-block-two .inner-box .content-box .info .post-info li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .blog-sidebar .post-widget .post .post-thumb{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .blog-sidebar .post-widget .post h5 a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .blog-sidebar .post-widget .post .post-date{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-sidebar .tags-widget .tags-list li a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .blog-details-content .content-one .upper-box span{
@@ -1451,87 +1451,87 @@
 }
 
 .blog-details-content .content-one .upper-box .post-info li i{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .content-one .image-box .post-date{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .blog-details-content blockquote{
-	border-color:#e2811e !important;
+	border-color:#d06811 !important;
 }
 
 .blog-details-content blockquote .icon-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .blog-details-content blockquote h4{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .content-three .list li:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .post-share-option .tags-list li a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .blog-details-content .post-share-option .social-links li a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .blog-details-content .author-box .content-box h6{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .author-box .content-box h6 a{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .author-box .content-box .social-links li a:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .blog-details-content .nav-btn-box .single-item h5 a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .nav-btn-box .single-item span{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .nav-btn-box:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .comment-box .comment .comment-info span{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .comment-box .comment .comment-inner .reply-btn i{
-	color:#e2811e
+	color:#d06811
 }
 
 .blog-details-content .comment-box .comment .comment-inner .reply-btn:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .blog-details-content .comment-form .form-group input:focus,
 .blog-details-content .comment-form .form-group textarea:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .blog-details-content .comment-form .form-group .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border-color:#e2811e !important;
+	border-color:#d06811 !important;
 }
 
 .shop-block-one .inner-box .image-box .cart-btn{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .shop-page-section .shop-block-one .inner-box .lower-content .rating li{
@@ -1539,11 +1539,11 @@
 }
 
 .shop-page-section .shop-block-one .inner-box .lower-content h5{
-	color:#e2811e
+	color:#d06811
 }
 
 .shop-block-one .inner-box .lower-content h5 a:hover{
-	color:#e2811e
+	color:#d06811
 }
 
 .product-details-content .upper-box .rating-box .rating li{
@@ -1551,11 +1551,11 @@
 }
 
 .product-details-content .upper-box .rating-box .review-box a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .product-details-content .upper-box .price{
-	color:#e2811e
+	color:#d06811
 }
 
 .product-details-content .text .category li a{
@@ -1563,24 +1563,24 @@
 }
 
 .product-details-content .text .category li a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .product-details-content .benefits-box ul li:before{
-	color:#e2811e
+	color:#d06811
 }
 
 .product-details-content .quantity-box .cart-btn .theme-btn{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .product-details-content .quantity-box .like-box a:hover{
-	border-color:#e2811e;
-	background-color:#e2811e
+	border-color:#d06811;
+	background-color:#d06811
 }
 
 .product-details-content .share-box .social-links li a{
-	background-color: #3b5998;
+	background-color: #1497b7;
 }
 
 .product-details-content .share-box .social-links li:nth-child(2) a{
@@ -1596,8 +1596,8 @@
 }
 
 .shop-details .discription-inner .tab-btn-box .tab-btns li.active-btn{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .shop-details .discription-inner .tabs-content .customer-review .single-item .rating li{
@@ -1605,20 +1605,20 @@
 }
 
 .shop-details .discription-inner .tabs-content .customer-review .single-item h4 span{
-	color:#e2811e
+	color:#d06811
 }
 
 .shop-details .review-form .form-group .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .shop-details .customer-comments .review-form .form-group input:focus,
 .shop-details .customer-comments .review-form .form-group textarea:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .shop-details .customer-comments .review-form .rating ul li{
-	color:#e2811e
+	color:#d06811
 }
 
 .shop-details .related-product .shop-block-one .inner-box .lower-content .rating li{
@@ -1626,24 +1626,24 @@
 }
 
 .shop-details .related-product .shop-block-one .inner-box .lower-content h5{
-	color:#e2811e
+	color:#d06811
 }
 
 .cart-table tbody tr .total-price{
-	color:#e2811e
+	color:#d06811
 }
 
 .cart-table tbody tr .remove-btn:hover{
-	background-color:#e2811e;
-	border-color:#e2811e
+	background-color:#d06811;
+	border-color:#d06811
 }
 
 .cart-section .apply-coupon .form-group input:focus{
-	border-color:#e2811e !important; 
+	border-color:#d06811 !important; 
 }
 
 .cart-section .apply-coupon .form-group button:hover{
-  background-color:#e2811e
+  background-color:#d06811
 }
 
 .cart-section .btn-box .cart-btn{
@@ -1651,43 +1651,43 @@
 }
 
 .cart-section .btn-box .cart-btn:hover{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .cart-section .btn-box button.theme-btn{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .checkout-page-section .custom-controls-stacked .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .checkout-page-section .information-inner .field-input input:focus{
-	border-color:#e2811e !important;
+	border-color:#d06811 !important;
 }
 
 .checkout-page-section .order-summary h4:before{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .checkout-page-section .order-summary .inner-box .single-item h6 span{
-	color:#e2811e
+	color:#d06811
 }
 
 .checkout-page-section .order-summary .total-amount h5 span{
-	color:#e2811e
+	color:#d06811
 }
 
 .checkout-page-section .accordion .payment-info .field-input input:focus{
-	border-color:#e2811e !important;
+	border-color:#d06811 !important;
 }
 
 .myaccount-section .form-group input:focus{
-	border-color:#e2811e !important;
+	border-color:#d06811 !important;
 }
 
 .myaccount-section .login-inner .other-option li:nth-child(2) a{
-	background-color: #3b5998;
+	background-color: #1497b7;
 }
 
 .myaccount-section .login-inner .other-option li:nth-child(3) a{
@@ -1699,36 +1699,36 @@
 }
 
 .myaccount-section .register-inner .text p span{
-	color:#e2811e
+	color:#d06811
 }
 
 .myaccount-section .custom-controls-stacked .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border-color:#e2811e
+	border-color:#d06811
 }
 
 .contact-section .contact-info-inner .info-box .single-item .text .icon-box{
-	background-color:#e2811e
+	background-color:#d06811
 }
 
 .contact-section .contact-info-inner .info-box .single-item .text p a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .contact-section .default-form .form-group i{
-	color:#e2811e
+	color:#d06811
 }
 
 .contact-section .default-form .form-group input:focus,
 .contact-section .default-form .form-group textarea:focus{
-  border-color:#e2811e !important;
+  border-color:#d06811 !important;
 }
 
 .charity-shops .single-item .phone a{
-	color:#e2811e
+	color:#d06811
 }
 
 .charity-shops .single-item .mail a:hover{
-  color:#e2811e
+  color:#d06811
 }
 
 .charity-shops .more-text span{
