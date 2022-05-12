@@ -124,7 +124,7 @@
 }
 
 .donate-content .form-inner .form-group input:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .donate-popup .close-donate:hover{
@@ -157,11 +157,11 @@
 
 .xs-sidebar-group .content-inner .form-inner .form-group input:focus,
 .xs-sidebar-group .content-inner .form-inner .form-group textarea:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .scroll-top{
-	color: #6aa84f
+	color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -277,8 +277,8 @@
 }
 
 .case-block-one .inner-box .lower-content .inner .text .category a:hover{
-  color: #6aa84f
-  border-color: #6aa84f
+  color: #6aa84f;
+  border-color: #6aa84f;
 }
 
 .case-block-one .inner-box .lower-content .inner .text h3 a:hover{
@@ -308,8 +308,8 @@
 }
 
 .case-section .owl-nav button:hover{
-	background-color: #6aa84f
-	border-color: #6aa84f
+	background-color: #6aa84f;
+	border-color: #6aa84f;
 }
 
 .recent-case-section .inner-box{
@@ -325,13 +325,13 @@
 }
 
 .video-section .owl-nav button:hover{
-	border-color: #6aa84f
+	border-color: #6aa84f;
 	background-color: #6aa84f
 }
 
 .content_block_2 .content-box .sponsors-inner h6 a{
-	color: #6aa84f
-	border-color: #6aa84f
+	color: #6aa84f;
+	border-color: #6aa84f;
 }
 
 .events-block-one .inner-box .image-box h3{
@@ -397,7 +397,7 @@
 }
 
 .testimonial-section .owl-nav button:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -414,7 +414,7 @@
 }
 
 .news-block-one .inner-box .content-box .text .category a:hover{
-  color: #6aa84f
+  color: #6aa84f;
   border-color: #6aa84f
 }
 
@@ -447,7 +447,7 @@
 }
 
 .subscribe-section .inner-box .right-column .subscribe-form .form-group input:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .footer-top .title-box .icon-box{
@@ -1025,7 +1025,7 @@
 }
 
 .content_block_9 .content-box .volunteer-form .form-group input:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .content_block_10 .content-box .text{
@@ -1045,7 +1045,7 @@
 }
 
 .accordion-box .block .acc-btn.active .icon-outer{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
   color: #6aa84f
 }
 
@@ -1091,7 +1091,7 @@
 
 .pagination li a:hover,
 .pagination li a.current{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1100,7 +1100,7 @@
 }
 
 .portfolio-sidebar .social-links li a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1134,7 +1134,7 @@
 }
 
 .case-block-three .inner-box .image-box .text .category a:hover{
-  color: #6aa84f
+  color: #6aa84f;
   border-color: #6aa84f
 }
 
@@ -1163,7 +1163,7 @@
 }
 
 .case-block-three .inner-box .lower-content .info-box li.share:hover i{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1193,7 +1193,7 @@
 }
 
 .case-block-four .inner-box .content-box .text .category a:hover{
-  color: #6aa84f
+  color: #6aa84f;
   border-color: #6aa84f
 }
 
@@ -1210,7 +1210,7 @@
 }
 
 .case-block-four .inner-box .content-box .info-box li.share:hover i{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1273,7 +1273,7 @@
 }
 
 .default-sidebar .search-widget .form-group input:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .default-sidebar .category-widget .category-list li a:hover{
@@ -1301,7 +1301,7 @@
 }
 
 .default-sidebar .subscribe-widget .lower-content .subscribe-form input:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .default-sidebar .subscribe-widget .lower-content p span{
@@ -1373,7 +1373,7 @@
 }
 
 .event-details-content .tabs-content .lower-box .share-option h5 a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1387,7 +1387,7 @@
 
 .event-details-content .tabs-content .contact-inner .form-inner .form-group input:focus,
 .event-details-content .tabs-content .contact-inner .form-inner .form-group textarea:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .event-details-content .tabs-content .contact-inner .sidebar-inner .event-organizer h3{
@@ -1408,7 +1408,7 @@
 }
 
 .news-block-two .inner-box .content-box .text .category a:hover{
-	color: #6aa84f
+	color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1441,7 +1441,7 @@
 }
 
 .blog-sidebar .tags-widget .tags-list li a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1459,7 +1459,7 @@
 }
 
 .blog-details-content blockquote{
-	border-color: #ff7728 !important;
+	border-color: #6aa84f !important;
 }
 
 .blog-details-content blockquote .icon-box{
@@ -1475,12 +1475,12 @@
 }
 
 .blog-details-content .post-share-option .tags-list li a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
 .blog-details-content .post-share-option .social-links li a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1493,7 +1493,7 @@
 }
 
 .blog-details-content .author-box .content-box .social-links li a:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1523,11 +1523,11 @@
 
 .blog-details-content .comment-form .form-group input:focus,
 .blog-details-content .comment-form .form-group textarea:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .blog-details-content .comment-form .form-group .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
-	border-color: #ff7728 !important;
+	border-color: #6aa84f !important;
 }
 
 .shop-block-one .inner-box .image-box .cart-btn{
@@ -1575,7 +1575,7 @@
 }
 
 .product-details-content .quantity-box .like-box a:hover{
-	border-color: #6aa84f
+	border-color: #6aa84f;
 	background-color: #6aa84f
 }
 
@@ -1596,7 +1596,7 @@
 }
 
 .shop-details .discription-inner .tab-btn-box .tab-btns li.active-btn{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
@@ -1614,7 +1614,7 @@
 
 .shop-details .customer-comments .review-form .form-group input:focus,
 .shop-details .customer-comments .review-form .form-group textarea:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .shop-details .customer-comments .review-form .rating ul li{
@@ -1634,12 +1634,12 @@
 }
 
 .cart-table tbody tr .remove-btn:hover{
-	background-color: #6aa84f
+	background-color: #6aa84f;
 	border-color: #6aa84f
 }
 
 .cart-section .apply-coupon .form-group input:focus{
-	border-color: #ff7728 !important; 
+	border-color: #6aa84f !important; 
 }
 
 .cart-section .apply-coupon .form-group button:hover{
@@ -1663,7 +1663,7 @@
 }
 
 .checkout-page-section .information-inner .field-input input:focus{
-	border-color: #ff7728 !important;
+	border-color: #6aa84f !important;
 }
 
 .checkout-page-section .order-summary h4:before{
@@ -1679,11 +1679,11 @@
 }
 
 .checkout-page-section .accordion .payment-info .field-input input:focus{
-	border-color: #ff7728 !important;
+	border-color: #6aa84f !important;
 }
 
 .myaccount-section .form-group input:focus{
-	border-color: #ff7728 !important;
+	border-color: #6aa84f !important;
 }
 
 .myaccount-section .login-inner .other-option li:nth-child(2) a{
@@ -1720,7 +1720,7 @@
 
 .contact-section .default-form .form-group input:focus,
 .contact-section .default-form .form-group textarea:focus{
-  border-color: #ff7728 !important;
+  border-color: #6aa84f !important;
 }
 
 .charity-shops .single-item .phone a{
