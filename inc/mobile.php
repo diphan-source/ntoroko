@@ -3,7 +3,7 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/ndn/ndn7.jpeg" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/ndn/ndn6.jpeg" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
