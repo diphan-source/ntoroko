@@ -10,7 +10,7 @@
                     <div class="sidebar-info-contents">
                         <div class="content-inner">
                             <div class="logo">
-                                <a href="index.php"><img src="assets/images/ndn/ndn4.jpeg" alt="" /></a>
+                                <a href="index.php"><img src="assets/images/ndn/ndn7.jpeg" alt="" /></a>
                             </div>
                             <div class="content-box">
                                 <h4>About Us</h4>
