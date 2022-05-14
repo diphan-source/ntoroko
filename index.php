@@ -550,9 +550,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$15,000 <span>/ $65,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start<span> 2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -568,11 +568,11 @@
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>45 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
                                                                 <h5>08+</h5>
@@ -590,9 +590,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$38,000 <span>/ $50,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start <span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -608,14 +608,14 @@
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>60 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
-                                                                <h5>67+</h5>
+                                                                <h5>08+</h5>
                                                                 <p>Suppoters</p>
                                                             </li>
                                                         </ul>
@@ -634,7 +634,7 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
                                                             <h5>Target</h5>
                                                             <div class="price">Start: <span>2022</span></div>
                                                         </div>
@@ -674,7 +674,7 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
                                                             <h5>Target</h5>
                                                             <div class="price">Start: <span>2022</span></div>
                                                         </div>
@@ -714,7 +714,7 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
                                                             <h5>Target</h5>
                                                             <div class="price">Start: <span>2022</span></div>
                                                         </div>
@@ -758,7 +758,7 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
                                                             <h5>Target</h5>
                                                             <div class="price">Start: <span>2022</span></div>
                                                         </div>
@@ -771,7 +771,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">#Campigns against Gender Based violence</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -798,9 +798,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$15,000 <span>/ $65,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">start:<span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -811,16 +811,16 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Hunger & Nutrition</a></div>
+                                                            <div class="category"><a href="index.php">#Campaigns aganist Gender Based Violence</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>45 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
                                                                 <h5>08+</h5>
@@ -838,9 +838,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$38,000 <span>/ $50,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start: <span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -851,19 +851,19 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Hunger & Nutrition</a></div>
+                                                            <div class="category"><a href="index.php">#Campigns against Gender Based Violence</a></div>
                                                             <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>60 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
-                                                                <h5>67+</h5>
+                                                                <h5>10+</h5>
                                                                 <p>Suppoters</p>
                                                             </li>
                                                         </ul>
@@ -882,7 +882,7 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
                                                             <h5>Target</h5>
                                                             <div class="price">Start: <span>2022</span></div>
                                                         </div>
@@ -922,9 +922,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$15,000 <span>/ $65,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start:<span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -935,16 +935,16 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Treatment</a></div>
+                                                            <div class="category"><a href="index.php">#Treatment</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>45 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
                                                                 <h5>08+</h5>
@@ -962,9 +962,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$38,000 <span>/ $50,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start: <span> 2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -981,13 +981,13 @@
                                                         </div>
                                                         <ul class="info-box clearfix">
                                                             <li>
-                                                                <i class="far fa-calendar-alt"></i>
+                                                                <!-- <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
-                                                                <p>60 Days Left</p>
+                                                                <p>60 Days Left</p> -->
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-users"></i>
-                                                                <h5>67+</h5>
+                                                                <h5>10+</h5>
                                                                 <p>Suppoters</p>
                                                             </li>
                                                         </ul>
@@ -1006,9 +1006,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$42,000 <span>/ $80,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start:<span> 2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -1020,18 +1020,18 @@
                                                     <div class="inner">
                                                         <div class="text">
                                                             <div class="category"><a href="index.php"># Water & Environment</a></div>
-                                                            <h3><a href="index.php">Potable Water for Villages In Mozambique</a></h3>
+                                                            <h3><a href="index.php">Potable Water for Villages In ntoroko</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>28 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
-                                                                <h5>40+</h5>
+                                                                <h5>10+</h5>
                                                                 <p>Suppoters</p>
                                                             </li>
                                                         </ul>
@@ -1046,9 +1046,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$15,000 <span>/ $65,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start:<span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -1059,16 +1059,16 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <div class="category"><a href="index.php">#Water & Environment</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>45 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
                                                                 <h5>08+</h5>
@@ -1086,9 +1086,9 @@
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
                                                         <div class="amount-box">
-                                                            <div class="icon-box"><i class="fas fa-dollar-sign"></i></div>
-                                                            <h5>Charity Raised</h5>
-                                                            <div class="price">$38,000 <span>/ $50,000</span></div>
+                                                            <!-- <div class="icon-box"><i class="fas fa-dollar-sign"></i></div> -->
+                                                            <h5>Target</h5>
+                                                            <div class="price">Start: <span>2022</span></div>
                                                         </div>
                                                         <div class="percentage-box">
                                                             <div class="bar">
@@ -1104,14 +1104,14 @@
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="far fa-calendar-alt"></i>
                                                                 <h5>Days</h5>
                                                                 <p>60 Days Left</p>
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-users"></i>
-                                                                <h5>67+</h5>
+                                                                <h5>10+</h5>
                                                                 <p>Suppoters</p>
                                                             </li>
                                                         </ul>
@@ -1334,7 +1334,7 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="#" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>
@@ -1354,7 +1354,7 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="#" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>
