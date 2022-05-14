@@ -13,7 +13,7 @@
                                 <li>
                                     <i class="icon-chat"></i>
                                     <span>Helpline:</span>
-                                    <a href="tel:23345678901">+256777861849</a>
+                                    <a href="tel:23345678901">+25677700000</a>
                                 </li>
                                 <li>
                                     <a href="mailto:example@info.com">example@info.com</a>
@@ -78,12 +78,12 @@
                                         </li>
                                         <li class="current dropdown"><a href="index.php">Pages</a>
                                             <ul>
-                                                <li><a href="about.php">About Charity</a></li>
-                                                <li><a href="volunteer.php">Become a Volunteer</a></li>
+                                                <li><a href="index.php">Our Causes</a></li>
+                                                <li><a href="index.php">Become a Volunteer</a></li>
                                                 <!-- <li><a href="comingsoon.php">Coming Soon</a></li> -->
-                                                <li><a href="donate-page.php">Donate Us</a></li>
-                                                <li><a href="faq.php">FAQ’s</a></li>
-                                                <li><a href="error.php">404</a></li>
+                                                <li><a href="index.php">Team</a></li>
+                                                <li><a href="index.php">FAQ’s</a></li>
+                                                <li><a href="index.php">404</a></li>
                                                 <!-- <li class="dropdown"><a href="index.php">Portfolio</a>
                                                     <ul>
                                                         <li><a href="portfolio.php">2 Columns Grid</a></li>
@@ -104,16 +104,16 @@
                                         </li>  -->
                                         <li class="dropdown"><a href="index.php">Events</a>
                                             <ul>
-                                                <li><a href="events.php">Grid View</a></li>
+                                                <li><a href="index.php">Soccer Gala</a></li>
                                                 <!-- <li><a href="events-2.php">List View</a></li> -->
-                                                <li><a href="event-details.php">Detail Page</a></li>
+                                                <li><a href="index.php">Mental Health Month</a></li>
                                             </ul>
                                         </li> 
                                         <li class="dropdown"><a href="index.php">Blog</a>
                                             <ul>
                                                 <!-- <li><a href="blog.php">Grid View</a></li> -->
-                                                <li><a href="blog.php">List View</a></li>
-                                                <li><a href="blog-details.php">Single Post</a></li>
+                                                <li><a href="index.php">Water Sources Created</a></li>
+                                                <li><a href="index.php">The Change of Ntoroko Farmers </a></li>
                                             </ul>
                                         </li> 
                                         <!-- <li class="dropdown"><a href="index.php">Shop</a>

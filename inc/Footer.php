@@ -23,12 +23,12 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="about.php">About Charity</a></li>
-                                        <li><a href="volunteer.php">Meet Our Volunteers</a></li>
-                                        <li><a href="events.php">Upcoming  Events</a></li>
-                                        <li><a href="blog.php">Blog & Articles</a></li>
-                                        <li><a href="donations.php">Our Causes</a></li>
-                                        <li><a href="contact.php">Get Touch With Us</a></li>
+                                        <li><a href="index.php">About Charity</a></li>
+                                        <li><a href="index.php">Meet Our Volunteers</a></li>
+                                        <li><a href="index.php">Upcoming  Events</a></li>
+                                        <li><a href="index.php">Blog & Articles</a></li>
+                                        <li><a href="index.php">Our Causes</a></li>
+                                        <li><a href="index.php">Get Touch With Us</a></li>
                                     </ul>
                                 </div>
                             </div>

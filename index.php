@@ -200,7 +200,7 @@
                                         <p>Farmer Sensitization , youth empowerment , health camps for women and elderly , awareness on youth mental health and others </p>
                                     </div>
                                     <div class="btn-box">
-                                        <a href="about.php" class="theme-btn btn-one">Read More</a>
+                                        <a href="index.php" class="theme-btn btn-one">Read More</a>
                                     </div>
                                 </div>
                                 <div class="funfact-inner">
@@ -399,8 +399,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -439,8 +439,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -479,8 +479,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -523,8 +523,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -563,8 +563,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Education</a></div>
-                                                            <h3><a href="donation-details.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="index.php"># Education</a></div>
+                                                            <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -603,8 +603,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Education</a></div>
-                                                            <h3><a href="donation-details.php">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="index.php"># Education</a></div>
+                                                            <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -647,8 +647,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -687,8 +687,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -727,8 +727,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -771,8 +771,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -811,8 +811,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="index.php"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -851,8 +851,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.php">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="index.php"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -895,8 +895,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php">#Vocational Training</a></div>
-                                                            <h3><a href="donation-details.php">Skilling for Women &amp; Youth</a></h3>
+                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -935,8 +935,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Treatment</a></div>
-                                                            <h3><a href="donation-details.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="index.php"># Treatment</a></div>
+                                                            <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -975,8 +975,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Treatment</a></div>
-                                                            <h3><a href="donation-details.php">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="index.php"># Treatment</a></div>
+                                                            <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -1019,8 +1019,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.php">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <h3><a href="index.php">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -1059,8 +1059,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -1099,8 +1099,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.php"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.php">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -1334,7 +1334,7 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="#" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>
@@ -1354,7 +1354,7 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="#" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>
@@ -1375,7 +1375,7 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="#" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>
@@ -1403,7 +1403,7 @@
                                     </div>
                                     <div class="text">
                                         <p>The majority have suffered alteration all injected <br />gets humours randomises.</p>
-                                        <a href="events.php" class="theme-btn btn-one">All events</a>
+                                        <a href="index.php" class="theme-btn btn-one">All events</a>
                                     </div>
                                     <div class="sponsors-inner">
                                         <h3>Event Sponsors:</h3>

@@ -551,7 +551,7 @@ img {
 .sec-title .top-text:before{
   position: absolute;
   content: '';
-  background-image: url(../images/icons/divider-1.png);
+  background-image: url(../images/icons/divider-2.png);
   width: 82px;
   height: 6px;
   left: 0px;
@@ -2794,7 +2794,7 @@ div#mCSB_1_container{
 .banner-section .banner-thumbs-carousel .single-item .text .top-text:before {
   position: absolute;
   content: '';
-  background-image: url(../images/icons/divider-1.png);
+  background-image: url(../images/icons/divider-2.png);
   width: 82px;
   height: 6px;
   left: 0px;
