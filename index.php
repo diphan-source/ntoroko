@@ -1498,7 +1498,7 @@
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">Founder</span>
-                                    <h3>William </h3>
+                                    <h3>William Kasujja</h3>
                                 </div>
                                 <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
                                 <div class="text">
@@ -1514,15 +1514,15 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/dip.jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Lucky</h3>
+                                    <span class="designation">innvotions manager </span>
+                                    <h3>Diphan Ahabwe</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/dip.jpg" alt=""></figure>
                                 <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                    <p>holds a bachelors in computer science and experience from organisation operations for more than two years</p>
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
@@ -1534,15 +1534,15 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team8 (1).jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
-                                    <span class="designation">Coordinator</span>
+                                    <span class="designation">Programs officer </span>
                                     <h3>Brenda Namatovu</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team8 (1).jpg" alt=""></figure>
                                 <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                    <p>she holds a bachelors degree in social sciences and several certificates from organiational work </p>
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
@@ -1554,15 +1554,15 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/kevin.jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
-                                    <span class="designation">Volunnteer</span>
-                                    <h3>Luke Nobert</h3>
+                                    <span class="designation">Board member </span>
+                                    <h3>Kevin Ayebare</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/kevin.jpg" alt=""></figure>
                                 <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                    <p>He holds a Bachelors degree in law and Diploma from law development Centre </p>
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
@@ -1574,15 +1574,15 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
+                                    <span class="designation">human resource manager </span>
+                                    <h3>Charity</h3>
                                 </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
+                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                                 <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
+                                    <p>Bachelors degree in human resource management </p>
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
@@ -1592,7 +1592,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="team-block-one">
+                    <!-- <div class="team-block-one">
                         <div class="inner-box">
                             <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
                             <div class="content-box">
@@ -1671,7 +1671,7 @@
                                 <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                    
                 </div>
             </div>

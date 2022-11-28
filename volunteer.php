@@ -11,7 +11,7 @@
 
 
         <!-- preloader -->
-        <div class="loader-wrap">
+        <!-- <div class="loader-wrap">
             <div class="preloader">
                 <div class="preloader-close">x</div>
                 <div id="handle-preloader" class="handle-preloader">
@@ -19,40 +19,38 @@
                         <div class="spinner"></div>
                         <div class="txt-loading">
                             <span data-text-preloader="P" class="letters-loading">
-                                P
+                                N
                             </span>
                             <span data-text-preloader="u" class="letters-loading">
-                                u
+                                T
                             </span>
                             <span data-text-preloader="r" class="letters-loading">
-                                r
+                                O
                             </span>
                             <span data-text-preloader="e" class="letters-loading">
-                                e
+                                R
                             </span>
                             <span data-text-preloader="H" class="letters-loading">
-                                H
+                                O
                             </span>
                             <span data-text-preloader="e" class="letters-loading">
-                                e
+                                K
                             </span>
                             <span data-text-preloader="a" class="letters-loading">
-                                a
+                                O
                             </span>
                             <span data-text-preloader="r" class="letters-loading">
-                                r
+                                D
                             </span>
                             <span data-text-preloader="t" class="letters-loading">
-                                t
+                                N
                             </span>
-                            <span data-text-preloader="s" class="letters-loading">
-                                s
-                            </span>
+                           
                         </div>
                     </div>  
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- preloader end -->
 
 
@@ -66,7 +64,7 @@
 
         <!-- volunteer-section -->
         <section class="volunteer-section">
-            <figure class="image-layer wow slideInLeft animated animated" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="assets/images/resource/volunteer-1.png" alt=""></figure>
+            <figure class="image-layer wow slideInLeft animated animated" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="assets/images/ndn/mag/test2.JPG" alt=""></figure>
             <div class="icon-layer">
                 <div class="icon-1"><img src="assets/images/icons/heart-6.png" alt=""></div>
                 <div class="icon-2"><img src="assets/images/icons/heart-8.png" alt=""></div>
@@ -85,19 +83,19 @@
                                     <div class="row clearfix">
                                         <div class="col-lg-12 col-md-12 col-sm-12 column">
                                             <div class="form-group">
-                                                <label>Your Name *</label>
+                                                <label>Your Name </label>
                                                 <input type="text" name="name" placeholder="example name" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12 col-md-12 col-sm-12 column">
                                             <div class="form-group">
-                                                <label>Email Address *</label>
+                                                <label>Email Address </label>
                                                 <input type="email" name="email" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12 col-md-12 col-sm-12 column">
                                             <div class="form-group">
-                                                <label>Phone Num *</label>
+                                                <label>Phone Number</label>
                                                 <input type="email" name="phone" required="">
                                             </div>
                                         </div>
@@ -152,7 +150,7 @@
         <?php include_once "./inc/footer.php"; ?>
 
         <!-- donate popup -->
-       <?php include_once "./inc/donate.php"; ?>
+       <?php include_once "./inc/donatepopup.php"; ?>
 
 
         <!-- sidebar cart item -->

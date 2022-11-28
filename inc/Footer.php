@@ -24,7 +24,7 @@
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
                                         <li><a href="index.php">About Charity</a></li>
-                                        <li><a href="index.php">Meet Our Volunteers</a></li>
+                                        <li><a href="volunteer.php">Meet Our Volunteers</a></li>
                                         <li><a href="index.php">Upcoming  Events</a></li>
                                         <li><a href="index.php">Blog & Articles</a></li>
                                         <li><a href="index.php">Our Causes</a></li>
@@ -57,7 +57,7 @@
                                 <div class="widget-content">
                                     <div class="single-item">
                                         <h3><a href="tel:23345678901">(+256) 777-000-000</a></h3>
-                                        <p><a href="mailto:example@info.com">example@info.com</a></p>
+                                        <p><a href="mailto:example@info.com">info@ntorokodevelpmentnetwork.org</a></p>
                                     </div>
                                     <div class="single-item">
                                         <h5>Ntoroko District</h5>

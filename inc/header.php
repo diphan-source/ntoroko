@@ -16,7 +16,7 @@
                                     <a href="tel:23345678901">+25677700000</a>
                                 </li>
                                 <li>
-                                    <a href="mailto:example@info.com">example@info.com</a>
+                                    <a href="mailto:example@info.com">info@ntorokodevelpmentnetwork.org</a>
                                 </li>
                                 <li>
                                     Ntoroko , Uganda 
@@ -79,11 +79,11 @@
                                         <li class="current dropdown"><a href="index.php">Pages</a>
                                             <ul>
                                                 <li><a href="index.php">Our Causes</a></li>
-                                                <li><a href="index.php">Become a Volunteer</a></li>
+                                                <li><a href="../volunteer.php">Become a Volunteer</a></li>
                                                 <!-- <li><a href="comingsoon.php">Coming Soon</a></li> -->
                                                 <li><a href="index.php">Team</a></li>
                                                 <li><a href="index.php">FAQ’s</a></li>
-                                                <li><a href="index.php">404</a></li>
+                                                <!-- <li><a href="index.php">404</a></li> -->
                                                 <!-- <li class="dropdown"><a href="index.php">Portfolio</a>
                                                     <ul>
                                                         <li><a href="portfolio.php">2 Columns Grid</a></li>
