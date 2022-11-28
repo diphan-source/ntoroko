@@ -1489,6 +1489,7 @@
                 <div class="sec-title centred">
                     <span class="top-text">Meet Our Team</span>
                     <h2>Most Passionate Team Members</h2>
+                    <h3>And our board Members </h3>
                     <p>The master-builder of human happiness no one rejects, dislikes <br />or avoids  pleasure itself pleasure,</p>
                 </div>
                 <div class="four-item-carousel owl-carousel owl-theme owl-nav-none">
@@ -1574,15 +1575,15 @@
                     </div>
                     <div class="team-block-one">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/ndn/mag/amos.jpeg" alt=""></figure>
                             <div class="content-box">
                                 <div class="info">
                                     <span class="designation">human resource manager </span>
-                                    <h3>Charity</h3>
+                                    <h3>Victor Amos Bamutana</h3>
                                 </div>
                                 <figure class="thumb-box"><img src="assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
                                 <div class="text">
-                                    <p>Bachelors degree in human resource management </p>
+                                    <p>Bachelors degree in human resource management</p>
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
