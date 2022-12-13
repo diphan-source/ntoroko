@@ -8,48 +8,7 @@
 
 
         <!-- preloader -->
-        <div class="loader-wrap">
-            <div class="preloader">
-                <div class="preloader-close">x</div>
-                <div id="handle-preloader" class="handle-preloader">
-                    <div class="animation-preloader">
-                        <div class="spinner"></div>
-                        <div class="txt-loading">
-                            <span data-text-preloader="P" class="letters-loading">
-                                P
-                            </span>
-                            <span data-text-preloader="u" class="letters-loading">
-                                u
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="H" class="letters-loading">
-                                H
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="a" class="letters-loading">
-                                a
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="t" class="letters-loading">
-                                t
-                            </span>
-                            <span data-text-preloader="s" class="letters-loading">
-                                s
-                            </span>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-        </div>
+       
         <!-- preloader end -->
 
 
@@ -58,32 +17,8 @@
         
 
         <!-- Mobile Menu  -->
-        <div class="mobile-menu">
-            <div class="menu-backdrop"></div>
-            <div class="close-btn"><i class="fas fa-times"></i></div>
-            
-            <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
-                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
-                <div class="contact-info">
-                    <h4>Contact Info</h4>
-                    <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
-                    </ul>
-                </div>
-                <div class="social-links">
-                    <ul class="clearfix">
-                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div><!-- End Mobile Menu -->
+        <?php include_once './inc/mobile.php'; ?>
+        <!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -112,8 +47,8 @@
                         <div class="content_block_6">
                             <div class="content-box">
                                 <div class="sec-title">
-                                    <span class="top-text">About Pure Hearts</span>
-                                    <h2>Help the Society,Donate to the Charity</h2>
+                                    <span class="top-text">About Ntoroko Development Network</span>
+                                    <h2>Help the Society,Make a better Community</h2>
                                 </div>
                                 <ul class="award-list clearfix">
                                     <li><img src="assets/images/icons/award-1.png" alt=""></li>
@@ -122,13 +57,16 @@
                                     <li><img src="assets/images/icons/award-4.png" alt=""></li>
                                 </ul>
                                 <div class="text">
-                                    <p>On the other hand, we denounce with righteous indignation & dislike men who are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresee the pain trouble that are bound to ensure.</p>
+                                    <p>On the other hand, we denounce with righteous indignation & 
+                                    dislike men who are so beguiled and demoralized by the charms of 
+                                    pleasure of the moment so blinded by desire that they cannot foresee the pain trouble
+                                     that are bound to ensure.</p>
                                 </div>
                                 <div class="inner-box clearfix">
                                     <div class="author-box">
                                         <div class="icon-box"><i class="icon-hand"></i></div>
                                         <span>Founder</span>
-                                        <h3>Benjie Alphonso</h3>
+                                        <h3>William Kasujja</h3>
                                     </div>
                                     <ul class="social-links clearfix">
                                         <li><a href="about.php"><i class="fab fa-facebook-f"></i></a></li>
@@ -288,308 +226,7 @@
                     <span class="top-text">Meet Our Team</span>
                     <h2>Most Passionate Team Members</h2>
                 </div>
-                <div class="five-item-carousel owl-carousel owl-theme owl-nav-none">
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-5.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-6.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-7.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-8.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Valunteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-9.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Partner</span>
-                                    <h3>Atulia Satija</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-5.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-5.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-6.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-7.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-8.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Valunteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-9.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Partner</span>
-                                    <h3>Atulia Satija</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-5.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-5.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-1.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-6.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-2.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-7.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-3.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-8.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Valunteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-4.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/team/team-9.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Partner</span>
-                                    <h3>Atulia Satija</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/team/team-5.png" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                <? include_once './inc/team.php'; ?>
             </div>
         </section>
         <!-- team-section end -->
@@ -796,7 +433,7 @@
             <div class="auto-container">
                 <div class="sec-title light centred">
                     <span class="top-text">Interesting Numbers</span>
-                    <h2>Pure Hearts Facts & Figures</h2>
+                    <h2>Ntoroko Development Network Facts & Figures</h2>
                     <p>The master-builder of human happiness no one rejects, dislikes <br />or avoids  pleasure itself pleasure.</p>
                 </div>
                 <div class="row clearfix">
@@ -858,7 +495,7 @@
                     <div class="left-column pull-left">
                         <div class="logo-box">
                             <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo-3.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn7.jpeg" alt=""></a></figure>
                         </div>
                         <div class="text">
                             <h3><i class="icon-email-open-sketched-envelope"></i>Subscribe <br />Our Newsletter</h3>
@@ -1069,5 +706,4 @@
    
 </body><!-- End of .page_wrapper -->
 
-<!-- Mirrored from st.ourhtmldemo.com/new/PureHearts/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2022 13:05:32 GMT -->
 </html>
