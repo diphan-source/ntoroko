@@ -6,7 +6,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget about-widget">
                                 <div class="title-box">
-                                    <div class="icon-box"><i class="icon-hand"></i></div>
+                                    <div class="icon-box"><i><img src="../assets/images/ndn/ndn7.jpeg" alt="" height="50" width="50"/> </i></div>
                                     <span>Let's better Our Community</span>
                                     <h3>Partner With Us</h3>
                                 </div>

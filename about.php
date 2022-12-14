@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="inner-box clearfix">
                                     <div class="author-box">
-                                        <div class="icon-box"><i class="icon-hand"></i></div>
+                                        <div><i><img src="./assets/images/ndn/ndn7.jpeg" alt="" height="55" width="55" /></i></div>
                                         <span>Founder</span>
                                         <h3>William Kasujja</h3>
                                     </div>
@@ -84,12 +84,12 @@
                                 <figure class="image image-1"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
                                 <figure class="image image-2"><img src="assets/images/resource/about-3.jpg" alt=""></figure>
                                 <div class="rotate-text">
-                                    <figure class="text-box rotate-me"><img src="assets/images/icons/rotate-text-2.png" alt=""></figure>
-                                    <figure class="icon-box"><img src="assets/images/icons/bird-1.png" alt=""></figure>
+                                    <figure class="text-box rotate-me"><img src="assets/images/ndn/ndn7.jpeg" alt=""></figure>
+                                    <!-- <figure class="icon-box"><img src="assets/images/icons/bird-1.png" alt=""></figure> -->
                                 </div>
                                 <figure class="icon-box"><img src="assets/images/icons/heart-7.png" alt=""></figure>
                                 <div class="text">
-                                    <h4><i class="icon-donation-1"></i>16+ Years of Experience</h4>
+                                    <h4><i><img src="assets/images/ndn/ndn7.jpeg" height="30" width="30" alt=""></i>2+ Years of Experience</h4>
                                 </div>
                             </div>
                         </div>
@@ -119,10 +119,10 @@
                             <div class="tabs-box">
                                 <div class="tab-btn-box">
                                     <ul class="tab-btns tab-buttons clearfix">
-                                        <li class="tab-btn active-btn" data-tab="#tab-1"><i class="far fa-calendar-alt"></i>2005</li>
-                                        <li class="tab-btn" data-tab="#tab-2"><i class="far fa-calendar-alt"></i>2006</li>
-                                        <li class="tab-btn" data-tab="#tab-3"><i class="far fa-calendar-alt"></i>2007</li>
-                                        <li class="tab-btn" data-tab="#tab-4"><i class="far fa-calendar-alt"></i>2008</li>
+                                        <li class="tab-btn active-btn" data-tab="#tab-1"><i class="far fa-calendar-alt"></i>2020</li>
+                                        <li class="tab-btn" data-tab="#tab-2"><i class="far fa-calendar-alt"></i>2021</li>
+                                        <li class="tab-btn" data-tab="#tab-3"><i class="far fa-calendar-alt"></i>2022</li>
+                                        <!-- <li class="tab-btn" data-tab="#tab-4"><i class="far fa-calendar-alt"></i>2008</li> -->
                                     </ul>
                                 </div>
                                 <div class="tabs-content">
@@ -239,30 +239,70 @@
                     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-38.png);"></div>
                     <div class="sec-title light centred">
                         <span class="top-text">Our Contribution</span>
-                        <h2>Our Contribution towards Countries</h2>
+                        <h2>Our Contribution towards Community</h2>
                     </div>
                     <div class="four-item-carousel owl-carousel owl-theme owl-nav-none">
                         <div class="single-item">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <h5>140k</h5>
+                                    <h5>20k</h5>
                                     <i class="icon-statue-of-liberty"></i>
                                 </div>
-                                <h3>United States</h3>
+                                <h3>Women Empowerment</h3>
                                 <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
                             </div>
                         </div>
                         <div class="single-item">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <h5>124k</h5>
+                                    <h5>4k</h5>
                                     <i class="icon-london-eye"></i>
                                 </div>
-                                <h3>United Kingdom</h3>
+                                <h3>Water and Sanitation </h3>
                                 <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
                             </div>
                         </div>
                         <div class="single-item">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <h5>2k</h5>
+                                    <i class="icon-kangaroo"></i>
+                                </div>
+                                <h3> Youth Empowerment</h3>
+                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
+                            </div>
+                        </div>
+                        <div class="single-item">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <h5>1k</h5>
+                                    <i class="icon-taj-mahal"></i>
+                                </div>
+                                <h3>Girl skilling and Education</h3>
+                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
+                            </div>
+                        </div>
+                        <div class="single-item">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <h5>3k</h5>
+                                    <i class="icon-statue-of-liberty"></i>
+                                </div>
+                                <h3>Mentalhealth Advocacy</h3>
+                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
+                            </div>
+                        </div>
+                        <div class="single-item">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <h5>8k</h5>
+                                    <i class="icon-london-eye"></i>
+                                </div>
+                                <h3>Farmer Empowerment</h3>
+                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
+                            </div>
+                        </div>
+                        <!-- <div class="single-item">
                             <div class="inner-box">
                                 <div class="icon-box">
                                     <h5>85k</h5>
@@ -321,47 +361,7 @@
                                 <h3>India</h3>
                                 <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
                             </div>
-                        </div>
-                        <div class="single-item">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <h5>140k</h5>
-                                    <i class="icon-statue-of-liberty"></i>
-                                </div>
-                                <h3>United States</h3>
-                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
-                            </div>
-                        </div>
-                        <div class="single-item">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <h5>124k</h5>
-                                    <i class="icon-london-eye"></i>
-                                </div>
-                                <h3>United Kingdom</h3>
-                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
-                            </div>
-                        </div>
-                        <div class="single-item">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <h5>85k</h5>
-                                    <i class="icon-kangaroo"></i>
-                                </div>
-                                <h3>Australia</h3>
-                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
-                            </div>
-                        </div>
-                        <div class="single-item">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <h5>78k</h5>
-                                    <i class="icon-taj-mahal"></i>
-                                </div>
-                                <h3>India</h3>
-                                <a href="about.php"><i class="far fa-angle-right"></i>Explore</a>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -396,7 +396,7 @@
                                         <div class="box">
                                             <div class="piechart"  data-fg-color="#f65024" data-value=".84">
                                             </div>
-                                            <span>Year of <br />2020</span>
+                                            <span>Year of <br />2022</span>
                                         </div>
                                         <div class="text">
                                             <h2>84%</h2>
@@ -409,7 +409,7 @@
                                         <div class="box">
                                             <div class="piechart"  data-fg-color="#03c0a8" data-value=".55">
                                             </div>
-                                            <span>Year of <br />2020</span>
+                                            <span>Year of <br />2022</span>
                                         </div>
                                         <div class="text">
                                             <h2>55%</h2>
@@ -442,7 +442,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-charity"></i></div>
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="1500" data-stop="278">0</span>
+                                    <span class="count-text" data-speed="1500" data-stop="108">0</span>
                                 </div>
                                 <h4>Volunteers</h4>
                             </div>
@@ -453,7 +453,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-donation-1"></i></div>
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="1500" data-stop="6.5">0</span><span>k</span>
+                                    <span class="count-text" data-speed="1500" data-stop="10">0</span><span>k</span>
                                 </div>
                                 <h4>Beneficiaries</h4>
                             </div>
@@ -464,7 +464,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-donation"></i></div>
                                 <div class="count-outer count-box">
-                                    <span>$</span><span class="count-text" data-speed="1500" data-stop="10">0</span><span>m</span>
+                                    <span>$</span><span class="count-text" data-speed="1500" data-stop="3">0</span><span>m</span>
                                 </div>
                                 <h4>Worth Donations</h4>
                             </div>
@@ -475,7 +475,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-home"></i></div>
                                 <div class="count-outer count-box">
-                                    <span class="count-text" data-speed="1500" data-stop="350">0</span><span>+</span>
+                                    <span class="count-text" data-speed="1500" data-stop="6">0</span><span>+</span>
                                 </div>
                                 <h4>NGOs Impacted</h4>
                             </div>
@@ -526,169 +526,12 @@
             <?php include_once './inc/footer.php' ?>
 
     
-                                 <!-- donate popup -->
-        <div id="donate-popup" class="donate-popup">
-            <div class="close-donate"><i class="icon-close"></i></div>
-            <div class="popup-inner">
-                <div class="donate-content">
-                    <div class="sec-title centred">
-                        <span class="top-text">Make Your Donation</span>
-                        <h2>Creating a Brighter Tomorrow</h2>
-                    </div>
-                    <form action="https://st.ourhtmldemo.com/new/PureHearts/index.php" method="post" class="default-form">
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-md-12 col-sm-12 donate-column">
-                                <div class="donate-box">
-                                    <div class="donate-option">
-                                        <h3>How Much?</h3>
-                                        <ul class="donate-list clearfix">
-                                            <li>
-                                                <input type="radio" id="donate-amount-1" name="donate-amount" checked="checked" />
-                                                <label for="donate-amount-1" data-amount="1000" >$10</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="donate-amount-2" name="donate-amount" />
-                                                <label for="donate-amount-2" data-amount="2000">$20</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="donate-amount-3" name="donate-amount" />
-                                                <label for="donate-amount-3" data-amount="3000">$50</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="donate-amount-4" name="donate-amount" />
-                                                <label for="donate-amount-4" data-amount="4000">$100</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="donate-amount-5" name="donate-amount" />
-                                                <label for="donate-amount-5" data-amount="5000">$500</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="donate-amount-6" name="donate-amount" />
-                                                <label for="donate-amount-6" data-amount="5000">$1000</label>
-                                            </li>
-                                        </ul>
-                                        <div class="other-amount">
-                                            <div class="text">
-                                                <h4>Like to Donate</h4>
-                                                <p>Enter your custom amount</p>
-                                            </div>
-                                            <div class="amount-box">
-                                                <div class="item-quantity"><input class="quantity-spinner" type="text" value="750" name="quantity"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="payment-option">
-                                        <h3>Choose Payment Option</h3>
-                                        <ul class="payment-list clearfix">
-                                            <li>
-                                                <input type="radio" id="payment-method-1" name="payment-method" checked="checked" />
-                                                <label for="payment-method-1" >Net Banking</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="payment-method-2" name="payment-method" />
-                                                <label for="payment-method-2">Credit - Debit Card</label>
-                                            </li>
-                                            <li>
-                                                <input type="radio" id="payment-method-3" name="payment-method" />
-                                                <label for="payment-method-3">Offline Payment</label>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 donate-form">
-                                <div class="form-inner">
-                                    <h3>Donar Information</h3>
-                                    <div class="row clearfix">
-                                        <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                            <div class="form-group">
-                                                <label>Your Name <span>*</span></label>
-                                                <input type="text" name="name" placeholder="example name" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                            <div class="form-group">
-                                                <label>Email Address <span>*</span></label>
-                                                <input type="email" name="email" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                            <div class="form-group">
-                                                <label>Phone</label>
-                                                <input type="text" name="phone" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                            <div class="form-group">
-                                                <label>Address</label>
-                                                <input type="text" name="address" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 col-md-12 col-sm-12 column">
-                                            <div class="form-group message-btn">
-                                                <button type="submit" class="theme-btn btn-one">Donate Now</button>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 col-md-12 col-sm-12 column">
-                                            <div class="form-group">
-                                                <label class="custom-control material-checkbox">
-                                                    <input type="checkbox" class="material-control-input">
-                                                    <span class="material-control-indicator"></span>
-                                                    <span class="description">I would like to donate automatically repeat each month</span>
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
+        <!-- donate popup -->
+            <?php include_once './inc/donatepopup.php' ?>
         <!-- donate popup -->
 
         <!-- sidebar cart item -->
-        <div class="xs-sidebar-group info-group info-sidebar">
-            <div class="xs-overlay xs-bg-black"></div>
-            <div class="xs-sidebar-widget">
-                <div class="sidebar-widget-container">
-                    <div class="widget-heading">
-                        <a href="index-2.php" class="close-side-widget"><i class="icon-close"></i></a>
-                    </div>
-                    <div class="sidebar-textwidget">
-                    <div class="sidebar-info-contents">
-                        <div class="content-inner">
-                            <div class="logo">
-                                <a href="index.php"><img src="assets/images/logo.png" alt="" /></a>
-                            </div>
-                            <div class="content-box">
-                                <h4>About Us</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam laboris.</p>
-                            </div>
-                            <div class="form-inner">
-                                <h4>Get a free quote</h4>
-                                <form action="https://st.ourhtmldemo.com/new/PureHearts/index.php" method="post">
-                                    <div class="form-group">
-                                        <input type="text" name="name" placeholder="Name" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" name="email" placeholder="Email" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea name="message" placeholder="Message..."></textarea>
-                                    </div>
-                                    <div class="form-group message-btn">
-                                        <button class="theme-btn btn-one">Submit Now</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
+        <?php include './inc/sidebar.php'; ?>
         <!-- sidebar widget item end -->
 
 
