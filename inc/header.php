@@ -1,8 +1,8 @@
 <header class="main-header header-style-one">
             <!-- logo-box -->
             <div class="logo-box">
-                <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn6.jpeg" alt=""></a></figure>
+                <div class="shape" style="background-image: url(../assets/images/shape/shape-1.png);"></div>
+                <figure class="logo"><a href="index.php"><img src="../assets/images/ndn/ndn6.jpeg" alt=""></a></figure>
             </div>
             <!-- header-top -->
             <div class="header-top">
@@ -49,7 +49,7 @@
                 <div class="outer-container">
                     <div class="outer-box">
                         <div class="text">
-                            <figure class="icon-box"><img src="assets/images/icons/heart-1.png" alt=""></figure>
+                            <figure class="icon-box"><img src="../assets/images/icons/heart-1.png" alt=""></figure>
                             <span>Become a Volunteer</span>
                         </div>
                         <div class="menu-area clearfix">

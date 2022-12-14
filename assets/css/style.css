@@ -3029,6 +3029,7 @@ div#mCSB_1_container{
 .image_block_1 .image-box .image-2 img{
   width: 100%;
   border-radius: 50%;
+  height: auto;
 }
 
 .image_block_1 .image-box .image-3{
