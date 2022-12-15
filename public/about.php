@@ -1,5 +1,5 @@
 
-<?php include_once './inc/head.php'; ?>
+<?php include_once '../inc/head.php'; ?>
 
 <!-- page wrapper -->
 <body>
@@ -13,16 +13,16 @@
 
 
         <!-- main header -->
-        <?php include_once './inc/header.php'; ?>
+        <?php include_once '../inc/header.php'; ?>
         
 
         <!-- Mobile Menu  -->
-        <?php include_once './inc/mobile.php'; ?>
+        <?php include_once '../inc/mobile.php'; ?>
         <!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
-        <section class="page-title" style="background-image: url(assets/images/background/12.jpg);">
+        <section class="page-title" style="background-image: url(../assets/images/background/12.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -40,7 +40,7 @@
 
 
         <!-- about-style-three -->
-        <section class="about-style-three" style="background-image: url(assets/images/background/13.jpg);">
+        <section class="about-style-three" style="background-image: url(../assets/images/background/13.jpg);">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -51,10 +51,10 @@
                                     <h2>Help the Society,Make a better Community</h2>
                                 </div>
                                 <ul class="award-list clearfix">
-                                    <li><img src="assets/images/icons/award-1.png" alt=""></li>
-                                    <li><img src="assets/images/icons/award-2.png" alt=""></li>
-                                    <li><img src="assets/images/icons/award-3.png" alt=""></li>
-                                    <li><img src="assets/images/icons/award-4.png" alt=""></li>
+                                    <li><img src="../assets/images/icons/award-1.png" alt=""></li>
+                                    <li><img src="../assets/images/icons/award-2.png" alt=""></li>
+                                    <li><img src="../assets/images/icons/award-3.png" alt=""></li>
+                                    <li><img src="../assets/images/icons/award-4.png" alt=""></li>
                                 </ul>
                                 <div class="text">
                                     <p>On the other hand, we denounce with righteous indignation & 
@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="inner-box clearfix">
                                     <div class="author-box">
-                                        <div><i><img src="./assets/images/ndn/ndn7.jpeg" alt="" height="55" width="55" /></i></div>
+                                        <div><i><img src="../assets/images/ndn/ndn7.jpeg" alt="" height="55" width="55" /></i></div>
                                         <span>Founder</span>
                                         <h3>William Kasujja</h3>
                                     </div>
@@ -109,9 +109,9 @@
                         <div class="col-lg-4 col-md-12 col-sm-12 image-column">
                             <div class="image-box">
                                 <div class="history-carousel owl-carousel owl-theme owl-dots-none">
-                                    <figure class="image"><img src="assets/images/resource/history-1.jpg" alt=""></figure>
-                                    <figure class="image"><img src="assets/images/resource/history-1.jpg" alt=""></figure>
-                                    <figure class="image"><img src="assets/images/resource/history-1.jpg" alt=""></figure>
+                                    <figure class="image"><img src="../assets/images/resource/history-1.jpg" alt=""></figure>
+                                    <figure class="image"><img src="../assets/images/resource/history-1.jpg" alt=""></figure>
+                                    <figure class="image"><img src="../assets/images/resource/history-1.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -220,13 +220,13 @@
 
         <!-- team-section -->
         <section class="team-section centred">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-23.png);"></div>
+            <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-23.png);"></div>
             <div class="fluid-container">
                 <div class="sec-title centred">
                     <span class="top-text">Meet Our Team</span>
                     <h2>Most Passionate Team Members</h2>
                 </div>
-                <? include_once './inc/team.php'; ?>
+                <? include_once '../inc/team.php'; ?>
             </div>
         </section>
         <!-- team-section end -->
@@ -236,7 +236,7 @@
         <section class="contribution-section centred">
             <div class="auto-container">
                 <div class="inner-container">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-38.png);"></div>
+                    <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-38.png);"></div>
                     <div class="sec-title light centred">
                         <span class="top-text">Our Contribution</span>
                         <h2>Our Contribution towards Community</h2>
@@ -371,7 +371,7 @@
 
         <!-- reports-section -->
         <section class="reports-section sec-pad">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-39.png);"></div>
+            <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-39.png);"></div>
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 content-column">
@@ -429,7 +429,7 @@
 
 
         <!-- funfact-section -->
-        <section class="funfact-section alternat-2 centred" style="background-image: url(assets/images/background/10.jpg);">
+        <section class="funfact-section alternat-2 centred" style="background-image: url(../assets/images/background/10.jpg);">
             <div class="auto-container">
                 <div class="sec-title light centred">
                     <span class="top-text">Interesting Numbers</span>
@@ -494,8 +494,8 @@
                 <div class="inner-box clearfix">
                     <div class="left-column pull-left">
                         <div class="logo-box">
-                            <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn7.jpeg" alt=""></a></figure>
+                            <div class="shape" style="background-image: url(../assets/images/shape/shape-1.png);"></div>
+                            <figure class="logo"><a href="index.php"><img src="../assets/images/ndn/ndn7.jpeg" alt=""></a></figure>
                         </div>
                         <div class="text">
                             <h3><i class="icon-email-open-sketched-envelope"></i>Subscribe <br />Our Newsletter</h3>
@@ -523,15 +523,15 @@
 
 
        <!-- footer-section -->
-            <?php include_once './inc/footer.php' ?>
+            <?php include_once '../inc/footer.php' ?>
 
     
         <!-- donate popup -->
-            <?php include_once './inc/donatepopup.php' ?>
+            <?php include_once '../inc/donatepopup.php' ?>
         <!-- donate popup -->
 
         <!-- sidebar cart item -->
-        <?php include './inc/sidebar.php'; ?>
+        <?php include '../inc/sidebar.php'; ?>
         <!-- sidebar widget item end -->
 
 
@@ -545,7 +545,7 @@
 
 
     <!-- jequery plugins -->
-    <?php include 'inc/scripts.php'; ?>
+    <?php include '../inc/scripts.php'; ?>
    
 </body><!-- End of .page_wrapper -->
 
