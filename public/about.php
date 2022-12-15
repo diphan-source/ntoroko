@@ -22,7 +22,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title" style="background-image: url(../assets/images/background/12.jpg);">
+        <section class="page-title" style="background-image: url(assets/images/background/12.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -40,7 +40,7 @@
 
 
         <!-- about-style-three -->
-        <section class="about-style-three" style="background-image: url(../assets/images/background/13.jpg);">
+        <section class="about-style-three" style="background-image: url(assets/images/background/13.jpg);">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -174,7 +174,7 @@
                                 <span>M</span>
                                 <div class="icon-box"><i class="icon-mission"></i></div>
                                 <h3>Our Mission</h3>
-                                <p>Beguiled and demoralized by the charms of pleasure of the moment blinded that they cannot foresee.</p>
+                                <p>Empowering the youth in breaking barriers in development </p>
                                 <div class="btn-box"><a href="about.php" class="theme-btn btn-one">Read More</a></div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                                 <span>V</span>
                                 <div class="icon-box"><i class="icon-medical-report"></i></div>
                                 <h3>Our Vision</h3>
-                                <p>Our power of choice untrammelled and when nothing prevents our being able to do what we like best.</p>
+                                <p>A Community Where Youth Are Empowered To Break Barriers </p>
                                 <div class="btn-box"><a href="about.php" class="theme-btn btn-one">Read More</a></div>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                                 <span>G</span>
                                 <div class="icon-box"><i class="icon-goal"></i></div>
                                 <h3>Our Goal</h3>
-                                <p>Duty or the obligations of business it will frequently occurs that pleasures have repudiated annoyances.</p>
+                                <p>Every Youth's Duty or the obligations to develop and have a resilent mind to be better  </p>
                                 <div class="btn-box"><a href="about.php" class="theme-btn btn-one">Read More</a></div>
                             </div>
                         </div>
@@ -207,7 +207,7 @@
                                 <span>P</span>
                                 <div class="icon-box"><i class="icon-fair-trade"></i></div>
                                 <h3>Our Partners</h3>
-                                <p>Riighteous indignation and dislike men who are so beguiled and demoralized by the pleasure of the moment.</p>
+                                <p>We sincerely hope that the caliber of our work and its presentation pleased you. We surely appreciate you as our partners </p>
                                 <div class="btn-box"><a href="about.php" class="theme-btn btn-one">Read More</a></div>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
 
         <!-- team-section -->
         <section class="team-section centred">
-            <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-23.png);"></div>
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-23.png);"></div>
             <div class="fluid-container">
                 <div class="sec-title centred">
                     <span class="top-text">Meet Our Team</span>
@@ -236,7 +236,7 @@
         <section class="contribution-section centred">
             <div class="auto-container">
                 <div class="inner-container">
-                    <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-38.png);"></div>
+                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-38.png);"></div>
                     <div class="sec-title light centred">
                         <span class="top-text">Our Contribution</span>
                         <h2>Our Contribution towards Community</h2>
