@@ -1160,8 +1160,8 @@
                                 <!-- <div class="text">
                                     <h3><link Ministry of health</link></h3>
                                     <h6>Volunteer</h6> -->
-                            </div> 
-            
+                            </div>
+
                             <div class="single-item">
                                 <figure class="image-box"><a href="https://www.agriculture.go.ug/" targert="_blank"><img src="../assets/images/ndn/partners/agric2.jpg" height="200" width="1000" alt=""></a></figure>
                                 <!-- <div class="text">
@@ -1192,8 +1192,8 @@
                                     <h3><link Westminster Foundation</link></h3>
                                     </div> -->
                             </div>
-                        
-                        </div> 
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1375,9 +1375,9 @@
                                 <div class="sponsors-inner">
                                     <h3>Event Sponsors:</h3>
                                     <div class="sponsors-carousel owl-carousel owl-theme owl-dots-none">
-                                        <figure class="sponsors-logo"><a href="index.php"><img src="assets/images/clients/sponsors-1.png" alt=""></a></figure>
-                                        <figure class="sponsors-logo"><a href="index.php"><img src="assets/images/clients/sponsors-2.png" alt=""></a></figure>
-                                        <figure class="sponsors-logo"><a href="index.php"><img src="assets/images/clients/sponsors-3.png" alt=""></a></figure>
+                                        <figure class="sponsors-logo"><a href="index.php"><img src="assets/images/ndn/partners/parliament.jpg" alt=""></a></figure>
+                                        <figure class="sponsors-logo"><a href="https://westminsterfoundation.org.uk/"><img src="assets/images/ndn/partners/westminster.jpg" alt=""></a></figure>
+                                        <figure class="sponsors-logo"><a href="https://www.agriculture.go.ug/"><img src="assets/images/ndn/partners/agric2.jpg" alt=""></a></figure>
                                     </div>
                                     <h6><a href="index.php">Become a Sponsor</a></h6>
                                 </div>
@@ -1457,7 +1457,7 @@
 
     <!-- team-section -->
     <section class="team-section centred">
-        <div class="pattern-layer" style="background-image: url(../assets/images/shape/shape-23.png);"></div>
+        <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-23.png);"></div>
         <div class="auto-container">
             <div class="sec-title centred">
                 <span class="top-text">Meet Our Team</span>
@@ -1474,9 +1474,10 @@
                                 <span class="designation">Founder</span>
                                 <h3>William Kasujja</h3>
                             </div>
-                            <figure class="thumb-box"><img src="../assets/images/ndn/mag/team4.jpg" alt=""></figure>
+                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/william.jpeg" alt=""></figure> -->
                             <div class="text">
-                                <p>He rejects pleasures to secure other greater pleasures or else he endures.</p>
+                                <p>He has various experiences from community work under different ngos </p>
+                                <p>William is passionate about mentoring and coaching teams to become transformational leaders; an endeavor that has made him interact with more than 2,000 elders, 1,000 health workers and over 100,000 youths in Uganda. His dedication to improving the lives of people in communities, coupled with a firm belief in his conviction that a well-equipped community can effect positive social change, has led him to consistently mobilize support and tools required by targeted communities to confront their challenges.</p>
                             </div>
                         </div>
                         <ul class="social-links clearfix">
@@ -1494,49 +1495,33 @@
                                 <span class="designation">innvotions manager </span>
                                 <h3>Diphan Ahabwe</h3>
                             </div>
-                            <figure class="thumb-box"><img src="../assets/images/ndn/mag/dip.jpg" alt=""></figure>
+                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/dip.jpg" alt=""></figure> -->
                             <div class="text">
-                                <p>holds a bachelors in computer science and experience from organisation operations for more than two years</p>
+                                <p>holds a bachelors in computer science </p>
+                                <p>Dedicated and passionate professional experience from non-profit organisations operations (NGOs)like Reach a hand Uganda ,strongMinds Uganda and others for more than two years have broaden his network of contacts and instill in him a deep sense of pride and desire to serve community.</p>
                             </div>
                         </div>
                         <ul class="social-links clearfix">
                             <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/ahabwediphan"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="team-block-one">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="../assets/images/ndn/mag/team8 (1).jpg" alt=""></figure>
+                        <figure class="image-box"><img src="../assets/images/ndn/mag/brenda.JPG" alt=""></figure>
                         <div class="content-box">
                             <div class="info">
                                 <span class="designation">Programs officer </span>
                                 <h3>Brenda Namatovu</h3>
                             </div>
-                            <figure class="thumb-box"><img src="../assets/images/ndn/mag/team8 (1).jpg" alt=""></figure>
                             <div class="text">
-                                <p>she holds a bachelors degree in social sciences and several certificates from organiational work </p>
-                            </div>
-                        </div>
-                        <ul class="social-links clearfix">
-                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="team-block-one">
-                    <div class="inner-box">
-                        <figure class="image-box"><img src="../assets/images/ndn/mag/kevin.jpg" alt=""></figure>
-                        <div class="content-box">
-                            <div class="info">
-                                <span class="designation">Board member </span>
-                                <h3>Kevin Ayebare</h3>
-                            </div>
-                            <figure class="thumb-box"><img src="../assets/images/ndn/mag/kevin.jpg" alt=""></figure>
-                            <div class="text">
-                                <p>He holds a Bachelors degree in law and Diploma from law development Centre </p>
+                                <p>she holds a bachelors degree of Arts in Social Sciences </p>
+                                <p>Dedicated and passionate professional with over 5 years’ experience of working for
+                                    non-profit organizations(NGOs).</P>
+                                <P>Her attention to detail and excellent project management skills has enabled timely task completion and
+                                    efficiency with the highest possible standard.</p>
                             </div>
                         </div>
                         <ul class="social-links clearfix">
@@ -1554,7 +1539,7 @@
                                 <span class="designation">human resource manager </span>
                                 <h3>Victor Amos Bamutana</h3>
                             </div>
-                            <figure class="thumb-box"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
+                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure> -->
                             <div class="text">
                                 <p>Bachelors degree in human resource management</p>
                             </div>
@@ -1566,87 +1551,70 @@
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Manager</span>
-                                    <h3>Ivor Herbertson</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
+                <div class="team-block-one">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="../assets/images/ndn/mag/amos.jpeg" alt=""></figure>
+                        <div class="content-box">
+                            <div class="info">
+                                <span class="designation">Finance manager </span>
+                                <h3>Paul Mugisa</h3>
                             </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
+                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure> -->
+                            <div class="text">
+                                <p>Paul is currently pursuing a bachelor’s degree in environmental science and management at Kampala International university. Paul advocates for environmental conservation and biodiversity protection measures.</p>
+                            </div>
                         </div>
+                        <ul class="social-links clearfix">
+                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                        </ul>
                     </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Coordinator</span>
-                                    <h3>Rodha Thelma</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team3.jpg" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
+                </div>
+                <div class="team-block-one">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="../assets/images/ndn/mag/kevin.jpg" alt=""></figure>
+                        <div class="content-box">
+                            <div class="info">
+                                <span class="designation">Board member </span>
+                                <h3>Kevin Ayebare</h3>
                             </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
+                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/kevin.jpg" alt=""></figure> -->
+                            <div class="text">
+                                <p>He holds a Bachelors degree in law and Diploma from law development Centre </p>
+                                <p>Kevin Ayebare is a legal Associate at TASLAF Advocates in charge of litigation, arbitration and dispute resolution at the firm. </p>
+                                <p>He possesses valuable experience, practical skill and knowledge in various multi-dimensional aspects of dispute resolution, whether arising in banking and finance, energy, oil and gas, tax, employment, land and family matters.</p>
+                            </div>
                         </div>
+                        <ul class="social-links clearfix">
+                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/kevinayebare"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                        </ul>
                     </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Volunnteer</span>
-                                    <h3>Luke Nobert</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team7.jpeg" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
+                </div>
+                <div class="team-block-one">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="assets/images/ndn/mag/edson.jpeg" alt=""></figure>
+                        <div class="content-box">
+                            <div class="info">
+                                <span class="designation">Board Member</span>
+                                <h3>Edson Rugumayo</h3>
                             </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
+                            <!-- <figure class="thumb-box"><img src="assets/images/ndn/mag/edson.jpeg" alt=""></figure> -->
+                            <div class="text">
+                                <p>Holds a Bachelors degree in Quantity Surveyor </p>
+                                <p>Former Secretary for External Relations National Youth Council of Uganda 2016-2021</p>
+                                <p>Western Youth MP 2021-2026</p>
+                            </div>
                         </div>
+                        <ul class="social-links clearfix">
+                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/RugumayoE"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
+                        </ul>
                     </div>
-                    <div class="team-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
-                            <div class="content-box">
-                                <div class="info">
-                                    <span class="designation">Founder</span>
-                                    <h3>Benjie Alphonso</h3>
-                                </div>
-                                <figure class="thumb-box"><img src="assets/images/ndn/mag/team4.jpg" alt=""></figure>
-                                <div class="text">
-                                    <p>He rejects pleasures  to secure other greater pleasures or else he endures.</p>
-                                </div>
-                            </div>
-                            <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
-                        </div>
-                    </div> -->
-
+                </div>
             </div>
         </div>
     </section>
@@ -1685,7 +1653,7 @@
                                         <h4>Lucky mbabazi</h4>
                                         <span class="designation">Youth Volunteer</span>
                                     </div>
-                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
+                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/mag5.jpg" alt=""></figure>
                                 </div>
                                 <div class="testimonial-block-one">
                                     <div class="text">
@@ -1695,7 +1663,7 @@
                                         <h4>Lucky mbabazi</h4>
                                         <span class="designation">Youth Volunteer</span>
                                     </div>
-                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
+                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/mag5.jpg" alt=""></figure>
                                 </div>
                                 <div class="testimonial-block-one">
                                     <div class="text">
@@ -1705,7 +1673,7 @@
                                         <h4>Lucky mbabazi</h4>
                                         <span class="designation">Youth Volunteer</span>
                                     </div>
-                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure>
+                                    <figure class="testimonial-thumb"><img src="../assets/images/ndn/mag/mag5.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>

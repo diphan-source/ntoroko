@@ -1,5 +1,5 @@
 
-<?php include_once './inc/head.php'; ?>
+<?php include_once '../inc/head.php'; ?>
 
 
 <!-- page wrapper -->
@@ -7,63 +7,16 @@
 
     <div class="boxed_wrapper">
 
-
-        <!-- preloader -->
-        <div class="loader-wrap">
-            <div class="preloader">
-                <div class="preloader-close">x</div>
-                <div id="handle-preloader" class="handle-preloader">
-                    <div class="animation-preloader">
-                        <div class="spinner"></div>
-                        <div class="txt-loading">
-                            <span data-text-preloader="P" class="letters-loading">
-                                P
-                            </span>
-                            <span data-text-preloader="u" class="letters-loading">
-                                u
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="H" class="letters-loading">
-                                H
-                            </span>
-                            <span data-text-preloader="e" class="letters-loading">
-                                e
-                            </span>
-                            <span data-text-preloader="a" class="letters-loading">
-                                a
-                            </span>
-                            <span data-text-preloader="r" class="letters-loading">
-                                r
-                            </span>
-                            <span data-text-preloader="t" class="letters-loading">
-                                t
-                            </span>
-                            <span data-text-preloader="s" class="letters-loading">
-                                s
-                            </span>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-        </div>
-        <!-- preloader end -->
-
-
         <!-- main header -->
-        <?php include_once './inc/header.php'; ?>
+        <?php include_once '../inc/header.php'; ?>
         <!-- main-header end -->
 
         <!-- Mobile Menu  -->
-        <?php include_once './inc/mobile.php'; ?>
+        <?php include_once '../inc/mobile.php'; ?>
 
 
         <!-- Page Title -->
-        <section class="page-title" style="background-image: url(assets/images/background/12.jpg);">
+        <section class="page-title" style="background-image: url(assets/images/ndn/training.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -102,21 +55,21 @@
                                     <h4>Email Address</h4>
                                     <div class="text">
                                         <div class="icon-box"><i class="icon-letter"></i></div>
-                                        <p>Mail to<br /><a href="mailto:info@example.com">info@example.com</a></p>
+                                        <p><a href="mailto:info@ntorokodevelopmentnetwork.org">info@ntorokodevelopmentnetwork.org</a></p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <h4>Mailing Address</h4>
                                     <div class="text">
                                         <div class="icon-box"><i class="icon-location"></i></div>
-                                        <p>54 Berrick Street, Boston <br />MA 02115.</p>
+                                        <p>head offices, Ntoroko <br />district quarters .</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 image-column">
-                        <figure class="image-box"><img src="assets/images/resource/contact-1.png" alt=""></figure>
+                        <figure class="image-box"><img src="assets/images/resource/benefits-1.jpg" alt=""></figure>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 inner-column">
                         <div class="contact-form-inner">
@@ -145,7 +98,7 @@
                                     </div>
                                     <div class="form-group">
                                         <i class="far fa-text-height"></i>
-                                        <textarea name="message" placeholder="Massage"></textarea>
+                                        <textarea name="message" placeholder="Message"></textarea>
                                     </div>
                                     <div class="form-group message-btn">
                                         <button class="theme-btn btn-one" type="submit" name="submit-form">Send Message</button>
@@ -229,29 +182,29 @@
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 single-column">
                         <div class="single-item wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <figure class="flag"><img src="assets/images/resource/flag-1.jpg" alt=""></figure>
-                            <h4>Ntoroko center</h4>
-                            <p>24/7, Health Center</p>
+                            <figure class="flag"><img src="assets/images/ndn/ndn7.jpeg" alt=""></figure>
+                            <h4>Ntoroko offices</h4>
+                            <p>24/7, Main Center</p>
                             <div class="phone"><a href="tel:625075206644">2567770000</a></div>
-                            <div class="mail"><a href="mailto:mailus@example.com">health@example.com</a></div>
+                            <div class="mail"><a href="mailto:info@ntorokodevelopmentnetwork.org">Email us </a></div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 single-column">
                         <div class="single-item wow fadeInUp animated" data-wow-delay="100ms" data-wow-duration="1500ms">
-                            <figure class="flag"><img src="assets/images/resource/flag-2.jpg" alt=""></figure>
-                            <h4>School Center</h4>
-                            <p></p>
+                            <figure class="flag"><img src="assets/images/ndn/ndn7.jpeg" alt=""></figure>
+                            <h4>Fortportal offices </h4>
+                            <p>district head offices </p>
                             <div class="phone"><a href="tel:8885206644">+256777000</a></div>
-                            <div class="mail"><a href="mailto:mailus@example.com">mailus@example.com</a></div>
+                            <div class="mail"><a href="mailto:kampala@ntorokodevelopmentnetwork.org">Email us </a></div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 single-column">
                         <div class="single-item wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <figure class="flag"><img src="assets/images/resource/flag-3.jpg" alt=""></figure>
+                            <figure class="flag"><img src="assets/images/ndn/ndn7.jpeg" alt=""></figure>
                             <h4>kampala</h4>
                             <p>kyandodo plot 4 </p>
                             <div class="phone"><a href="tel:0752066445">07520-664-45</a></div>
-                            <div class="mail"><a href="mailto:mailus@example.com">mailus@example.com</a></div>
+                            <div class="mail"><a href="mailto:info@ntorokodevelopmentnetwork.org">Email us </a></div>
                         </div>
                     </div>
                    
@@ -270,7 +223,7 @@
                     <div class="left-column pull-left">
                         <div class="logo-box">
                             <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo-3.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn7.jpeg" alt=""></a></figure>
                         </div>
                         <div class="text">
                             <h3><i class="icon-email-open-sketched-envelope"></i>Subscribe <br />Our Newsletter</h3>
@@ -278,7 +231,7 @@
                     </div>
                     <div class="right-column pull-right clearfix">
                         <div class="form-inner">
-                            <form action="https://st.ourhtmldemo.com/new/PureHearts/contact.php" method="post" class="subscribe-form">
+                            <form action="index.php" method="post" class="subscribe-form">
                                 <div class="form-group">
                                     <input type="email" name="email" placeholder="Your Email Address..." required="">
                                     <button type="submit">Subscribe Us</button>
@@ -298,17 +251,17 @@
 
 
         <!-- main-footer -->
-        <?php include_once './inc/footer.php'; ?>
+        <?php include_once '../inc/footer.php'; ?>
         <!-- main-footer end -->
 
 
         <!-- donate popup -->
-       <?php include_once './inc/donatepopup.php'; ?>
+       <?php include_once '../inc/donatepopup.php'; ?>
         <!-- donate popup -->
 
 
         <!-- sidebar cart item -->
-        <?php include_once './inc/sidebar.php'; ?>
+        <?php include_once '../inc/sidebar.php'; ?>
         <!-- sidebar widget item end -->
 
 
@@ -322,7 +275,7 @@
 
 
     <!-- jequery plugins -->
-    <?php include_once './inc/scripts.php'; ?>
+    <?php include_once '../inc/scripts.php'; ?>
 
     <!-- map script -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>

@@ -1,8 +1,8 @@
 <header class="main-header header-style-one">
             <!-- logo-box -->
             <div class="logo-box">
-                <div class="shape" style="background-image: url(../assets/images/shape/shape-1.png);"></div>
-                <figure class="logo"><a href="index.php"><img src="../assets/images/ndn/ndn6.jpeg" alt=""></a></figure>
+                <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                <figure class="logo"><a href="index.php"><img src="assets/images/ndn/ndn6.jpeg" alt=""></a></figure>
             </div>
             <!-- header-top -->
             <div class="header-top">
@@ -16,7 +16,7 @@
                                     <a href="tel:23345678901">+25677700000</a>
                                 </li>
                                 <li>
-                                    <a href="mailto:example@info.com">info@ntorokodevelpmentnetwork.org</a>
+                                    <a href="mailto:info@ntorokodevelpmentnetwork.org">info@ntorokodevelpmentnetwork.org</a>
                                 </li>
                                 <li>
                                     Ntoroko , Uganda 
@@ -31,9 +31,9 @@
                                 <span>En</span>
                                 <ul class="language-list clearfix">
                                     <li><a href="index.php">English</a></li>
-                                    <li><a href="index.php">Spanish</a></li>
+                                    <!-- <li><a href="index.php">Spanish</a></li>
                                     <li><a href="index.php">Chines</a></li>
-                                    <li><a href="index.php">Turky</a></li>
+                                    <li><a href="index.php">Turky</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                 <div class="outer-container">
                     <div class="outer-box">
                         <div class="text">
-                            <figure class="icon-box"><img src="../assets/images/icons/heart-1.png" alt=""></figure>
+                            <figure class="icon-box"><img src="assets/images/icons/heart-1.png" alt=""></figure>
                             <span>Become a Volunteer</span>
                         </div>
                         <div class="menu-area clearfix">
