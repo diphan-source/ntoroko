@@ -49,8 +49,8 @@
                 <div class="outer-container">
                     <div class="outer-box">
                         <div class="text">
-                            <figure class="icon-box"><img src="assets/images/icons/heart-1.png" alt=""></figure>
-                            <span>Become a Volunteer</span>
+                            <!-- <figure class="icon-box"><img src="assets/images/ndn/ndn7.jpeg" alt=""></figure> -->
+                            <link href="volunteer.php"><span>Become a Volunteer</span></link>
                         </div>
                         <div class="menu-area clearfix">
                             <!--Mobile Navigation Toggler-->

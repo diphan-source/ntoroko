@@ -1553,13 +1553,12 @@
                 </div>
                 <div class="team-block-one">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="../assets/images/ndn/mag/amos.jpeg" alt=""></figure>
+                        <figure class="image-box"><img src="../assets/images/ndn/mag/paul.jpeg" alt=""></figure>
                         <div class="content-box">
                             <div class="info">
                                 <span class="designation">Finance manager </span>
                                 <h3>Paul Mugisa</h3>
                             </div>
-                            <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/team8 (2).jpg" alt=""></figure> -->
                             <div class="text">
                                 <p>Paul is currently pursuing a bachelor’s degree in environmental science and management at Kampala International university. Paul advocates for environmental conservation and biodiversity protection measures.</p>
                             </div>
