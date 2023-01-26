@@ -1,4 +1,4 @@
-<?php include_once '../inc/head.php'; ?>
+<?php include_once './inc/head.php'; ?>
 
 
 <!-- page wrapper -->
@@ -36,11 +36,11 @@
 
 
         <!-- main header -->
-        <?php include_once '../inc/header.php'; ?>
+        <?php include_once './inc/header.php'; ?>
         <!-- main-header end -->
 
         <!-- Mobile Menu  -->
-        <?php include_once '../inc/mobile.php'; ?>
+        <?php include_once './inc/mobile.php'; ?>
         <!-- End Mobile Menu -->
 
 
@@ -1720,14 +1720,14 @@
 
 
     <!-- main-footer -->
-    <?php include_once '../inc/Footer.php'; ?>
+    <?php include_once './inc/Footer.php'; ?>
 
     <!-- donate popup -->
-    <?php include_once '../inc/donatepopup.php'; ?>
+    <?php include_once './inc/donatepopup.php'; ?>
 
 
     <!-- sidebar cart item -->
-    <?php include_once '../inc/sidebar.php'; ?>
+    <?php include_once './inc/sidebar.php'; ?>
     <!-- sidebar widget item end -->
 
 
@@ -1741,7 +1741,7 @@
 
 
     <!-- jequery plugins -->
-    <?php include_once '../inc/scripts.php' ?>
+    <?php include_once './inc/scripts.php' ?>
 
 </body>
 <!-- End of .page_wrapper -->
