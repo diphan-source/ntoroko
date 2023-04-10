@@ -1,4 +1,4 @@
-<?php include_once '../inc/head.php'; ?>
+<?php include_once './inc/head.php'; ?>
 
 
 <!-- page wrapper -->
@@ -152,6 +152,20 @@
                                     <a href="index.php">More Details</a>
                                 </div>
                                 <figure class="image-box"><img src="../assets/images/ndn/health.jpg" alt=""></figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="single-item">
+                                <div class="icon-box">
+                                    <div class="icon"><i class="icon-save"></i></div>
+                                    <span>04</span>
+                                </div>
+                                <div class="text">
+                                    <span class="top-text">Farming</span>
+                                    <h3>Agriculture Trainings <br />For Youth &amp; elderly</h3>
+                                    <a href="index.php">More Details</a>
+                                </div>
+                                <figure class="image-box"><img src="../assets/images/ndn/ntoroko_farm3.jpeg" alt=""></figure>
                             </div>
                         </div>
                     </div>
@@ -439,7 +453,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">Vocational Training</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -461,7 +475,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="../assets/images/ndn/training.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="../assets/images/ndn/ntoroko_farm2.jpeg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(../assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -479,9 +493,9 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
-                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
-                                                            <p>This is aimed at empowering women and the youth in our community to have a skill</p>
+                                                            <div class="category"><a href="index.php">Agriculture Skilling</a></div>
+                                                            <h3><a href="index.php">Skilling for Community &amp; Youth</a></h3>
+                                                            <p>In partnership with Hon Rugumanyo Edson , the western youth MP , NDN has established a modern diary farm in ntoroko to train prospective young entrepreneurs in Rwenzori region</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
                                                             <!-- <li>
@@ -523,9 +537,9 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
-                                                            <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
-                                                            <p>This is aimed at empowering women and the youth in our community to have a skill</p>
+                                                            <div class="category"><a href="index.php">Farm learning</a></div>
+                                                            <h3><a href="index.php">Skilling for  Youth</a></h3>
+                                                            <p>This is aimed at empowering  the youth in our community to have a skill</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
                                                             <!-- <li>
@@ -545,7 +559,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="../assets/images/ndn/training.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="../assets/images/ndn/ntoroko_farm4.jpeg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(../assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -585,7 +599,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="../assets/images/ndn/training.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="../assets/images/ndn/ntoroko_farm3.jpeg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(../assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -603,7 +617,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Education</a></div>
+                                                            <div class="category"><a href="index.php">Farming Education</a></div>
                                                             <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
@@ -647,7 +661,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">Vocational Training</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -687,7 +701,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">Vocational Training</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -727,7 +741,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">Vocational Training</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -771,7 +785,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Campigns against Gender Based violence</a></div>
+                                                            <div class="category"><a href="index.php">Campigns against Gender Based violence</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -811,7 +825,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Campaigns aganist Gender Based Violence</a></div>
+                                                            <div class="category"><a href="index.php">Campaigns aganist Gender Based Violence</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
@@ -851,7 +865,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Campigns against Gender Based Violence</a></div>
+                                                            <div class="category"><a href="index.php">Campigns against Gender Based Violence</a></div>
                                                             <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
@@ -895,7 +909,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Vocational Training</a></div>
+                                                            <div class="category"><a href="index.php">Vocational Training</a></div>
                                                             <h3><a href="index.php">Skilling for Women &amp; Youth</a></h3>
                                                             <p>This is aimed at empowering women and the youth in our community to have a skill</p>
                                                         </div>
@@ -935,7 +949,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Treatment</a></div>
+                                                            <div class="category"><a href="index.php">Treatment</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
@@ -975,7 +989,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Treatment</a></div>
+                                                            <div class="category"><a href="index.php"> Treatment</a></div>
                                                             <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
@@ -1019,7 +1033,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <div class="category"><a href="index.php"> Water & Environment</a></div>
                                                             <h3><a href="index.php">Potable Water for Villages In ntoroko</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
@@ -1059,7 +1073,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php">#Water & Environment</a></div>
+                                                            <div class="category"><a href="index.php">Water & Environment</a></div>
                                                             <h3><a href="index.php">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
@@ -1099,7 +1113,7 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="index.php"># Water & Environment</a></div>
+                                                            <div class="category"><a href="index.php"> Water & Environment</a></div>
                                                             <h3><a href="index.php">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
