@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=//home4/gerymkmy/public_html/ntorokodevelopmentnetwork/
+    - /bin/cp -R * $DEPLOYPATH
