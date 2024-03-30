@@ -1501,7 +1501,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="team-block-one">
+<!--                 <div class="team-block-one">
                     <div class="inner-box">
                         <figure class="image-box"><img src="../assets/images/ndn/mag/dip.jpg" alt=""></figure>
                         <div class="content-box">
@@ -1510,7 +1510,7 @@
                                 <h3>Diphan Ahabwe</h3>
                             </div>
                             <!-- <figure class="thumb-box"><img src="../assets/images/ndn/mag/dip.jpg" alt=""></figure> -->
-                            <div class="text">
+<!--                             <div class="text">
                                 <p>holds a bachelors in computer science </p>
                                 <p>Dedicated and passionate professional experience from non-profit organisations operations (NGOs)like Reach a hand Uganda ,strongMinds Uganda and others for more than two years have broaden his network of contacts and instill in him a deep sense of pride and desire to serve community.</p>
                             </div>
@@ -1520,8 +1520,8 @@
                             <li><a href="https://twitter.com/ahabwediphan"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
-                    </div>
-                </div>
+                    </div> -->
+<!--                 </div>  -->
                 <div class="team-block-one">
                     <div class="inner-box">
                         <figure class="image-box"><img src="../assets/images/ndn/mag/brenda.JPG" alt=""></figure>
